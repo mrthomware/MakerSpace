@@ -17,5 +17,9 @@ def create_directory_structure(readme_file, root_dir):
             # Create the directory
             os.makedirs(dir_path, exist_ok=True)
 
+            # Create a README.md file in the directory
+            with open(os.path.join(dir_path, 'README.md'), 'w') as readme:
+                readme.write(line.strip() + '\n')
+
 # Usage
 create_directory_structure('README.md', 'MakerSpace')
