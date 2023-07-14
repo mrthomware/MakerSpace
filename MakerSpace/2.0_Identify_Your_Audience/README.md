@@ -1,4 +1,4 @@
-# 2. Identify Your Audience
+# 2.0 Identify Your Audience
 
 ## Overview
 This section focuses on the process of identifying your target audience. It explains the importance of audience identification, provides guidance for audience research, and emphasizes the value of creating audience profiles.
