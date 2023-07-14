@@ -1,4 +1,4 @@
-# 1. Research and Understand the Concept
+# 1.0 Research and Understand the Concept
 
 ## Overview
 This section focuses on researching and understanding a specific concept. It aims to provide readers with a comprehensive understanding of the chosen topic by conducting thorough research and presenting key findings.
