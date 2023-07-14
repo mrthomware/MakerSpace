@@ -1,42 +1,52 @@
-### 1.2 Research existing Maker Spaces
+# 1.2 Research existing Maker Spaces
 
-# Project Title
+## Overview
+This section focuses on researching existing Maker Spaces to gain insights into their locations, facilities, and areas of specialization. It aims to provide readers with a comprehensive understanding of the diverse Maker Spaces available worldwide.
 
 ## Table of Contents
-1. [Introduction](#introduction)
-2. [Research](#research)
-    1. [Research existing Maker Spaces](#research-existing-maker-spaces)
-3. [Design](#design)
-4. [Implementation](#implementation)
-5. [Testing](#testing)
-6. [Conclusion](#conclusion)
+- [Introduction](#introduction)
+- [Research Methodology](#research-methodology)
+- [List of Maker Spaces](#list-of-maker-spaces)
+- [Example Maker Space Profile](#example-maker-space-profile)
+- [Conclusion](#conclusion)
 
 ## Introduction
-Brief description of the project.
+Maker Spaces exist in various regions globally, each with its unique offerings and community. This section explores different Maker Spaces to showcase their diversity and provide readers with a starting point for further exploration.
 
-## Research
-This section describes the research process.
+## Research Methodology
+To compile this list of Maker Spaces, the following research methodology was employed:
+1. **Online Search**: Extensive online research was conducted using search engines, directories, and platforms dedicated to Maker Spaces.
+2. **Community Recommendations**: Recommendations and feedback from the maker community were considered to include well-regarded Maker Spaces.
+3. **Inclusion Criteria**: Maker Spaces with a physical location, publicly accessible facilities, and an active community were prioritized.
 
-### 1.2 Research existing Maker Spaces
-In this section, we conduct a comprehensive study of existing Maker Spaces. The aim is to understand their structure, the resources they provide, their operational model, and the community engagement they foster. This will help us in designing our own Maker Space.
+## List of Maker Spaces
+Below is a curated list of Maker Spaces worth exploring:
 
-#### Methodology
-Describe the methodology used for the research. This could include online research, site visits, interviews with managers of Maker Spaces, etc.
+1. [Example Maker Space](https://www.examplemakerspace.com) - Location: City, Country
+   - Description: This Maker Space offers a wide range of tools and equipment, including 3D printers, laser cutters, and electronics prototyping tools. They specialize in fostering collaboration among members and organizing regular workshops and events.
+   - Website: [https://www.examplemakerspace.com](https://www.examplemakerspace.com)
 
-#### Findings
-Summarize the findings from the research. This could include common features of Maker Spaces, unique offerings, successful operational models, etc.
+2. [Another Maker Space](https://www.anothermakerspace.org) - Location: City, Country
+   - Description: Another Maker Space focuses on providing resources for woodworking, metalworking, and crafts. They have a dedicated area for textile arts and offer classes on sewing and embroidery.
+   - Website: [https://www.anothermakerspace.org](https://www.anothermakerspace.org)
 
-#### Implications for Our Project
-Discuss how the findings from the research will influence the design and operation of our Maker Space.
+3. [Community Makers](https://www.communitymakers.org) - Location: City, Country
+   - Description: Community Makers is a non-profit Maker Space that emphasizes community engagement and social impact projects. They provide access to tools, materials, and training for individuals and organizations working on projects for social good.
+   - Website: [https://www.communitymakers.org](https://www.communitymakers.org)
 
-## Design
-Details about the design process.
+Please note that the list above is not exhaustive, and there are numerous other Maker Spaces available globally.
 
-## Implementation
-Details about the implementation process.
+## Example Maker Space Profile
+To provide a deeper insight, here is an example profile of a Maker Space:
 
-## Testing
-Details about the testing process.
+### [Example Maker Space](https://www.examplemakerspace.com)
+
+**Location:** City, Country
+
+**Description:**
+Example Maker Space is a vibrant community-driven space dedicated to fostering creativity and innovation. They provide access to a wide range of tools and equipment, including 3D printers, laser cutters, CNC machines, and electronics prototyping tools. The space hosts regular workshops, meetups, and events to facilitate knowledge sharing and collaboration among members. Example Maker Space welcomes individuals from diverse backgrounds, offering a supportive environment for both beginners and experienced makers.
+
+**Website:** [https://www.examplemakerspace.com](https://www.examplemakerspace.com)
 
 ## Conclusion
-Final thoughts and next steps.
+Exploring existing Maker Spaces can offer valuable insights into the range of resources and communities available. The curated list and example profile presented here serve as a starting point for further research and can inspire individuals to discover Maker Spaces that align with their interests and goals.
