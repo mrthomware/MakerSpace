@@ -1,4 +1,4 @@
-# 6. Equip Your Maker Space
+# 6.0 Equip Your Maker Space
 
 ## Overview
 This section focuses on equipping your maker space, ensuring it has the necessary tools, equipment, and resources for individuals to engage in hands-on creativity, innovation, and production. It highlights the importance of selecting appropriate equipment, organizing the space efficiently, and creating a safe and accessible environment.
