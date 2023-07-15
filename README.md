@@ -55,12 +55,28 @@ Your Maker Space should offer a variety of workshops, classes, and activities to
 Partnering with local organizations can help you offer a wider range of programming. For example, you could collaborate with a local school to offer after-school programs, or with a local business to offer workshops related to their industry.
 
 ## [8.0 Hire Staff](https://github.com/mrthomware/MakerSpace/tree/main/MakerSpace/8.0_Hire_Staff)
+
 ### [8.1 Determine staffing needs](https://github.com/mrthomware/MakerSpace/tree/main/MakerSpace/8.1_Determine_staffing_needs)
 Depending on the size and scope of your Maker Space, you may need to hire a manager, instructors, or volunteers. The manager would oversee the day-to-day operations of the Maker Space, while instructors would lead workshops and classes.
 
-### [8.2 Recruitment](https://github.com/mrthomware/MakerSpace/tree/main/MakerSpace/8.2_Recruitment)
+### [8.2 Recruitment]()
 When recruiting staff, look for individuals who are passionate about making and have the necessary skills and experience. You could post job openings on online job boards, at local colleges or universities, or at community events.
-thomware/MakerSpace/tree/main/MakerSpace/9.1_Plan_a_grand_opening_event)
-A grand opening event can help generate interest in your Maker S
-## [9.0 Launch Your Maker Space](https://github.com/mrthomware/MakerSpace/tree/main/MakerSpace/9.0_Launch_Your_Maker_Space)
-### [9.1 Plan a grand opening event](https://github.com/mrthomware/MakerSpace/tree/main/MakerSpace/9.1_Plan_a_grand_opening_event) ??pace and attract initial members. This could include demonstrations of the tools and equipment, mini workshops, and opportunities for visitors to
+
+## [9.0 Launch Your Maker Space]()
+
+### [9.1 Plan a grand opening event]()
+A grand opening event can help generate interest in your Maker Space and attract initial members. This could include demonstrations of the tools and equipment, mini workshops, and opportunities for visitors to make something themselves.
+
+### [9.2 Implement your marketing strategy]()
+After your grand opening, continue to implement your marketing strategy to attract new members and keep existing members engaged. This could include regular social media posts, email newsletters, and community events.
+
+## [10.0 Evaluate and Adjust]()
+
+### [10.1 Regular evaluation]()
+Regularly evaluate your Maker Space's performance to identify areas for improvement. This could include tracking attendance at workshops and classes, monitoring equipment usage, and reviewing financial performance.
+
+### [10.2 Seek feedback]()
+Encourage members and the community to provide feedback on your Maker Space. This could include surveys, suggestion boxes, or informal conversations. Use this feedback to continually improve your offerings and operations.
+
+This guide provides a comprehensive overview of the steps involved in setting up a Maker Space. Each step requires detailed planning and execution. If you need further assistance with any specific step, feel free to ask!
+
