@@ -16,13 +16,7 @@ We provide a range of resources to help you get started:
 - [Products](https://preciousplastic.com/solutions/products.html): Get inspired by a world of possibilities.
 - [Business Tools](https://preciousplastic.com/solutions/business-tools.html): Make money recycling.
 
-## Contributing
 
-As an open-source project, we welcome contributions from the community. If you're interested in contributing, please read our [contribution guidelines](CONTRIBUTING.md).
-
-## License
-
-All Precious Plastic content is shared under [Creative Commons Attribution](LICENSE.md).
 
 ## Contact
 
@@ -54,10 +48,4 @@ For any inquiries, please reach out to us:
 - Phone: 604-308-2241
 - Email: info@gearbots.org
 
-## Contributing
 
-As an educational organization, we welcome contributions that align with our mission and enhance our resources. If you're interested in contributing, please read our [contribution guidelines](CONTRIBUTING.md).
-
-## License
-
-All GearBots content is shared under [Creative Commons Attribution](LICENSE.md).
