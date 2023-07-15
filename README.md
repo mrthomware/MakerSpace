@@ -63,4 +63,4 @@ When recruiting staff, look for individuals who are passionate about making and 
 thomware/MakerSpace/tree/main/MakerSpace/9.1_Plan_a_grand_opening_event)
 A grand opening event can help generate interest in your Maker S
 ## [9.0 Launch Your Maker Space](https://github.com/mrthomware/MakerSpace/tree/main/MakerSpace/9.0_Launch_Your_Maker_Space)
-### [9.1 Plan a grand opening event](https://github.com/mrpace and attract initial members. This could include demonstrations of the tools and equipment, mini workshops, and opportunities for visitors to
+### [9.1 Plan a grand opening event](https://github.com/mrthomware/MakerSpace/tree/main/MakerSpace/9.1_Plan_a_grand_opening_event) ??pace and attract initial members. This could include demonstrations of the tools and equipment, mini workshops, and opportunities for visitors to
