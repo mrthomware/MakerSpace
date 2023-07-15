@@ -50,13 +50,13 @@ def update_readme_toc(readme_path, toc):
 
 def main():
     # You should replace the below path with the actual path to your 'data' directory
-    data_path = data_path = "C:\\Users\\thomw\\Desktop\\data"
+    makerspace_path= "https://github.com/mrthomware/MakerSpace/tree/main"
 
     # You should replace the below path with the actual path to your README.md file
-    readme_path = r"C:\Users\thomw\Desktop\data\README.md"
+    readme_path = r"https://github.com/mrthomware/MakerSpace/blob/main/README.md"
 
 
-    directories = get_directories(data_path)
+    directories = get_directories(makerspace_path)
     toc = add_to_readme_toc(directories)
     update_readme_toc(readme_path, toc)
 
