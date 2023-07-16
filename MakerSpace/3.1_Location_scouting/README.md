@@ -13,7 +13,7 @@ This section focuses on location scouting, the process of searching for and eval
 ## Introduction
 Location scouting is a critical step in ensuring the suitability and visual appeal of a location for your project or event. It involves searching for potential locations, assessing their suitability, and making informed decisions. This section explores the importance of location scouting, provides guidance for conducting effective scouting, and highlights key factors to consider during the process.
 
-## Why Location Scouting
+## [Why Location Scouting](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/3.1_Location_scouting/Importance%20of%20Location%20Scouting%20for%20a%20MakerSpace.md)
 Location scouting offers several benefits:
 - **Visual Appeal**: Scouting allows you to identify locations that visually align with your project's or event's requirements. It helps you find settings that enhance the storytelling, aesthetics, or atmosphere.
 - **Logistical Considerations**: Scouting helps you evaluate the practicality and feasibility of a location. It allows you to assess factors such as accessibility, parking, power supply, and available facilities.
