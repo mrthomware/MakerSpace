@@ -8,7 +8,7 @@
 - **Online Resources**: Utilize online resources, location databases, or local contacts to identify potential locations that align with your requirements.
 - **Recommendations**: Consider reaching out to other Maker Space operators for recommendations. They may have valuable insights to share.
 
-## Visit and Assess Locations
+## [Visit and Assess Locations](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/3.1_Location_scouting/Guidance%20for%20Location%20Scouting/Visit%20and%20Assess%20Locations.md)
 - **In-Person Visits**: Visit each potential location in person to evaluate its suitability. Assess factors such as the available space, lighting conditions, and any potential challenges.
 - **Trial Runs**: If possible, consider doing a trial run at each location. This could involve setting up some equipment and seeing how it works in the space.
 
