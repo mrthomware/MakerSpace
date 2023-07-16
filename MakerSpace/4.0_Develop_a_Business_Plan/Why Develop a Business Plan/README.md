@@ -5,7 +5,7 @@ Developing a business plan is a crucial step in establishing a successful Maker 
 ## [Clarity of Vision](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/4.0_Develop_a_Business_Plan/Why%20Develop%20a%20Business%20Plan/Clarity%20of%20Vision.md)
 A business plan helps you clarify your vision, mission, and objectives for your Maker Space. It provides a clear roadmap and helps align your efforts towards a common goal.
 
-## Strategic Guidance
+## [Strategic Guidance](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/4.0_Develop_a_Business_Plan/Why%20Develop%20a%20Business%20Plan/Strategic%20Guidance.md)
 A well-crafted business plan outlines your strategies and tactics for achieving your goals. It helps you make informed decisions and navigate challenges effectively.
 
 ## Attracting Stakeholders
