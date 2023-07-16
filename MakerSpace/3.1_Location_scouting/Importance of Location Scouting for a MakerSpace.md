@@ -12,7 +12,7 @@
 - **Budget Management**: By scouting locations, you can identify options that fit within your budget. It helps you optimize resources and avoid unnecessary expenses.
 - **Financial Planning**: Understanding the cost of the location also helps in financial planning for your Maker Space.
 
-## Compliance and Permissions
+## [Compliance and Permissions](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/3.1_Location_scouting/Compliance%20and%20Permissions/README.md)
 - **Legal Compliance**: Scouting enables you to identify any legal or regulatory requirements associated with specific locations. It ensures compliance and helps you secure necessary permits or permissions.
 - **Smooth Operations**: Ensuring compliance and permissions beforehand can ensure smooth operations of your Maker Space without any legal hassles.
 
