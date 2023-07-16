@@ -1,6 +1,6 @@
 # Key Factors to Consider During Location Scouting for a MakerSpace
 
-## Visual Compatibility
+## [Visual Compatibility](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/3.1_Location_scouting/Key%20Factors%20to%20Consider/Visual%20Compatibility.md)
 - **Aesthetics**: Does the location align with the desired aesthetics of your Maker Space? Does it inspire creativity and collaboration?
 - **Themes**: Does the location support the themes of your Maker Space, such as technology, science, and art?
 - **Ambiance**: Does the location provide the right ambiance for your Maker Space? Is it welcoming and inclusive?
