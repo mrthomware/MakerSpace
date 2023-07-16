@@ -28,7 +28,7 @@ To identify your audience effectively, consider the following guidance for audie
 4. [**Observe Online Communities**](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/2.0_Identify_Your_Audience/Guidance%20for%20Audience%20Research/Observe%20Online%20Communities.md): Join relevant online communities, forums, or social media groups where your target audience gathers. Observe their discussions, interests, and challenges to gain deeper insights.
 5. [**Utilize Market Research Tools**](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/2.0_Identify_Your_Audience/Guidance%20for%20Audience%20Research/Utilize%20Market%20Research%20Tools.md): Leverage market research tools and platforms that provide demographic data, consumer trends, or industry insights. These resources can help you understand the broader context and industry landscape.
 
-## Creating Audience Profiles
+## [Creating Audience Profiles](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/2.0_Identify_Your_Audience/Creating%20Audience%20Profiles/README.md)
 Once you have gathered audience research, you can create audience profiles to consolidate your findings. Consider the following elements for creating audience profiles:
 - **Demographics**: Include demographic information such as age, gender, location, education, occupation, or income.
 - **Psychographics**: Explore their attitudes, values, lifestyle, motivations, and interests. Understand their aspirations, goals, and pain points.
