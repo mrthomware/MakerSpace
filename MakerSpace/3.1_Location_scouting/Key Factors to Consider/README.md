@@ -15,7 +15,7 @@
 - **Usage Permissions**: Do you have permission to use the location as a Maker Space? Are there any restrictions on the type of activities or the number of people allowed?
 - **Building Codes**: Does the location comply with local building codes, especially for safety and accessibility?
 
-## Safety and Security
+## [Safety and Security](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/3.1_Location_scouting/Key%20Factors%20to%20Consider/Safety%20and%20Security/README.md)
 - **Safety Measures**: Does the location have necessary safety measures such as fire exits, first aid kits, and safe storage for potentially dangerous tools?
 - **Security**: Does the location have security measures such as locks, alarms, or security cameras?
 
