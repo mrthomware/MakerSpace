@@ -14,6 +14,44 @@ Here are some of the tools and equipment available in our Maker Space:
 - **Electronics Components:** Including resistors, capacitors, microcontrollers, and soldering stations.
 - **Woodworking Tools:** Including saws, drills, and sanders.
 
+## Tools and Equipment in a Maker Space
+
+### 3D Printing
+- Flashforge Creator Pro 3D printers
+- Prusa i3 MK3s 3D printers
+- Computers for CAD
+
+### Electronics
+- Soldering irons & accessories
+- Power source
+- Bantam Tools PCB mill
+- Digital oscilloscope
+
+### Fiber Arts
+- Brother CS5055PRW Sewing Machine
+- Knitting needles
+- Sewing kit
+- Brother SE600 Embroidery Machine
+- Leather punches
+
+### Other
+- PLS6.150D Laser Cutter
+- Power drills
+- Dremel
+- Jigsaw
+- Compound miter saw
+- Pull saw
+- Hack saw
+- Measuring tools
+- Hammers
+- Screwdrivers
+- Utility knives & scissors
+- Wrench sets
+- Pliers sets
+- Files/rasps
+- Snips
+
+
 ## Using the Tools and Equipment
 
 - **Training:** Some tools require training before use. Check with the Maker Space staff to find out which tools require training.
