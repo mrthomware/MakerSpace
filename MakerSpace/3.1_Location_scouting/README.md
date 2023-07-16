@@ -19,7 +19,7 @@ Location scouting offers several benefits:
 - [**Logistical Considerations**](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/3.1_Location_scouting/Logistical%20Considerations/README.md): Scouting helps you evaluate the practicality and feasibility of a location. It allows you to assess factors such as accessibility, parking, power supply, and available facilities.
 - [**Cost Efficiency**](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/3.1_Location_scouting/Cost%20Efficiency/README.md): By scouting locations, you can identify options that fit within your budget and minimize additional expenses. It helps you optimize resources and avoid unnecessary expenses.
 - [**Compliance and Permissions**](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/3.1_Location_scouting/Compliance%20and%20Permissions/README.md): Scouting enables you to identify any legal or regulatory requirements associated with specific locations. It ensures compliance and helps you secure necessary permits or permissions.
-- **Risk Mitigation**: Through scouting, you can identify potential risks or challenges associated with a location. It allows you to proactively address issues and mitigate any potential disruptions.
+- [**Risk Mitigation**](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/3.1_Location_scouting/Risk%20Mitigation/README.md): Through scouting, you can identify potential risks or challenges associated with a location. It allows you to proactively address issues and mitigate any potential disruptions.
 
 ## Guidance for Location Scouting
 To conduct effective location scouting, consider the following guidance:
