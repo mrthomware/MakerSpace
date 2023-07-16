@@ -10,7 +10,7 @@ Maker Spaces typically operate on a membership basis. Individuals can purchase m
 
 Once an individual becomes a member, they can access the Maker Space during its operating hours. Members can use the space's tools, equipment, and workstations for their projects.
 
-## Project Collaboration
+## [Project Collaboration](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/1.1_Understand_what_a_Maker_Space_is_and_how_it_functions/How%20does%20a%20Maker%20Space%20function/Project%20Collaboration.md)
 
 Collaboration is a key aspect of Maker Spaces. Members can work on their own projects or team up with others to work on larger initiatives. This collaborative environment fosters knowledge sharing and mutual learning.
 
