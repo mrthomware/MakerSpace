@@ -13,7 +13,7 @@ This section focuses on the process of identifying your target audience. It expl
 ## Introduction
 Identifying your target audience is a critical step in developing successful strategies and tailored content. It involves understanding who your ideal customers or users are, their characteristics, preferences, and needs. This section explores the importance of audience identification, provides guidance for audience research, and highlights the value of creating audience profiles.
 
-## Why Identify Your Audience
+## [Why Identify Your Audience](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/2.0_Identify_Your_Audience/Why%20Identify%20Your%20Audience/README.md)
 Identifying your audience offers several benefits:
 - [**Focused Messaging**](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/2.0_Identify_Your_Audience/Why%20Identify%20Your%20Audience/Focused%20Messaging.md): When you have a clear understanding of your target audience, you can tailor your messaging to resonate with their interests, challenges, and aspirations. This improves communication and engagement.
 - **Efficient Resource Allocation**: By identifying your audience, you can allocate your resources effectively. It allows you to target your marketing efforts, content creation, and product development toward the specific group most likely to be interested in your offerings.
