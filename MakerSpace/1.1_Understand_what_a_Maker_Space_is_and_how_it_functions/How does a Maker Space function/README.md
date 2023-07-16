@@ -2,7 +2,7 @@
 
 Maker Spaces function in a unique way, providing a collaborative environment for individuals to work on projects. Here's a brief overview of how a typical Maker Space operates:
 
-## Membership
+## [Membership](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/1.1_Understand_what_a_Maker_Space_is_and_how_it_functions/How%20does%20a%20Maker%20Space%20function/Membership.md)
 
 Maker Spaces typically operate on a membership basis. Individuals can purchase memberships, which may be monthly, annual, or project-based, to gain access to the Maker Space's facilities and resources.
 
