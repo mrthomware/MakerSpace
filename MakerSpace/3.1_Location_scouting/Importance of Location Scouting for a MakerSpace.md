@@ -8,7 +8,7 @@
 - **Practicality and Feasibility**: Scouting helps you evaluate the practicality and feasibility of a location. It allows you to assess factors such as accessibility, parking, power supply, and available facilities.
 - **Optimal Space Utilization**: By evaluating the space during scouting, you can plan for optimal utilization of the space for various activities in your Maker Space.
 
-## Cost Efficiency
+## [Cost Efficiency](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/3.1_Location_scouting/Cost%20Efficiency.md)
 - **Budget Management**: By scouting locations, you can identify options that fit within your budget. It helps you optimize resources and avoid unnecessary expenses.
 - **Financial Planning**: Understanding the cost of the location also helps in financial planning for your Maker Space.
 
