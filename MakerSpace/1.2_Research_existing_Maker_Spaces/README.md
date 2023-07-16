@@ -13,7 +13,7 @@ This section focuses on researching existing Maker Spaces to gain insights into 
 ## Introduction
 Maker Spaces exist in various regions globally, each with its unique offerings and community. This section explores different Maker Spaces to showcase their diversity and provide readers with a starting point for further exploration.
 
-## Research Methodology
+## [Research Methodology](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/1.2_Research_existing_Maker_Spaces/Research%20Methodology.md)
 To compile this list of Maker Spaces, the following research methodology was employed:
 1. **Online Search**: Extensive online research was conducted using search engines, directories, and platforms dedicated to Maker Spaces.
 2. **Community Recommendations**: Recommendations and feedback from the maker community were considered to include well-regarded Maker Spaces.
