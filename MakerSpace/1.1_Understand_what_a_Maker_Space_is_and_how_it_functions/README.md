@@ -27,7 +27,7 @@ A typical Maker Space consists of the following components:
 
 ## How does a Maker Space function?
 The functioning of a Maker Space varies depending on its size, purpose, and community. However, here are some common aspects:
-1. **Membership**: Maker Spaces typically offer membership options for individuals to access the facilities and resources. Memberships can be monthly, annual, or based on specific project requirements.
+1. [**Membership**](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/1.1_Understand_what_a_Maker_Space_is_and_how_it_functions/MakerSpace%20Membership.md): Maker Spaces typically offer membership options for individuals to access the facilities and resources. Memberships can be monthly, annual, or based on specific project requirements.
 2. **Access and Usage**: Once a member, individuals can access the Maker Space during designated hours. They can utilize the tools, equipment, and workstations based on their project needs.
 3. **Project Collaboration**: Maker Spaces encourage collaboration among members. Users can work on their individual projects or collaborate with others on larger initiatives, sharing knowledge and expertise.
 4. **Events and Workshops**: Maker Spaces often organize events, workshops, and training sessions to facilitate skill development, networking, and community engagement.
