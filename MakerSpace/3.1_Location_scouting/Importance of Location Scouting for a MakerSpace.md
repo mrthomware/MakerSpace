@@ -1,6 +1,6 @@
 # Importance of Location Scouting for a MakerSpace
 
-## Visual Appeal
+## [Visual Appeal](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/3.1_Location_scouting/Visual%20Appeal.md)
 - **Alignment with Requirements**: Scouting allows you to find locations that visually align with your Maker Space's requirements. It helps you find spaces that enhance the aesthetics or atmosphere of your Maker Space.
 - **Enhanced Experience**: A visually appealing location can enhance the experience for your members, encouraging creativity and collaboration.
 
