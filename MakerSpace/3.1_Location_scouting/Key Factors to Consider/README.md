@@ -5,7 +5,7 @@
 - **Themes**: Does the location support the themes of your Maker Space, such as technology, science, and art?
 - **Ambiance**: Does the location provide the right ambiance for your Maker Space? Is it welcoming and inclusive?
 
-## Logistical Considerations
+## [Logistical Considerations](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/3.1_Location_scouting/Key%20Factors%20to%20Consider/Logistical%20Considerations/README)
 - **Accessibility**: Is the location easily accessible to your target audience? Consider factors such as public transportation, parking availability, and proximity to your audience's common areas.
 - **Facilities**: Does the location have necessary facilities such as restrooms, a kitchen or snack area, and possibly a lounge or relaxation area?
 - **Power Supply**: Does the location have a sufficient power supply for all the equipment you plan to use?
