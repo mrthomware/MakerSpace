@@ -8,7 +8,7 @@ Maker Spaces provide a wide range of tools and equipment, including 3D printers,
 ### [Workstations](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/1.1_Understand_what_a_Maker_Space_is_and_how_it_functions/Components%20of%20a%20Maker%20Space/Workstations.md)
 Maker Spaces offer dedicated workstations equipped with workbenches, power tools, soldering stations, and other essentials for hands-on projects.
 
-### Materials and Supplies
+### [Materials and Supplies](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/1.1_Understand_what_a_Maker_Space_is_and_how_it_functions/Components%20of%20a%20Maker%20Space/Materials%20and%20Supplies.md)
 Users can access a variety of materials and supplies required for their projects, such as raw materials, electronics components, craft materials, and safety equipment.
 
 ### Community and Collaboration
