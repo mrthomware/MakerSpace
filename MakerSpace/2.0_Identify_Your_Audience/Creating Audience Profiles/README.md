@@ -2,7 +2,7 @@
 
 Once you have gathered audience research, you can create audience profiles to consolidate your findings. Here's how you can do it:
 
-## Demographics
+## [Demographics](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/2.0_Identify_Your_Audience/Creating%20Audience%20Profiles/Demographics.md)
 Include demographic information such as age, gender, location, education, occupation, or income. For a Maker Space, you might also want to consider their technical skills or experience with making.
 
 ## Psychographics
