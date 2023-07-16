@@ -23,7 +23,7 @@ Determining your target audience offers several benefits:
 
 ## Guidance for Determining your Target Audience
 To determine your target audience effectively, consider the following guidance:
-1. **Market Research**: Conduct thorough market research to gain insights into the demographics, psychographics, and behaviors of potential customers. Utilize surveys, interviews, focus groups, and existing market data.
+1. [**Market Research**](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/2.1_Determine_your_target_audience/Guidance%20for%20Determining%20your%20Target%20Audience/Market%20Research.md): Conduct thorough market research to gain insights into the demographics, psychographics, and behaviors of potential customers. Utilize surveys, interviews, focus groups, and existing market data.
 2. **Analyze Existing Customers**: Analyze the characteristics, preferences, and behaviors of your existing customer base. Identify common traits and patterns to inform your target audience definition.
 3. **Segmentation**: Segment your audience based on relevant criteria such as age, gender, location, interests, buying behavior, or job roles. This helps create distinct audience profiles and tailor your strategies accordingly.
 4. **Develop Personas**: Create detailed personas that represent different segments of your target audience. Personas include information like demographics, interests, goals, challenges, and purchasing behavior.
