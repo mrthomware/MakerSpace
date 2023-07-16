@@ -18,7 +18,7 @@ Collaboration is a key aspect of Maker Spaces. Members can work on their own pro
 
 Many Maker Spaces host events, workshops, and training sessions. These activities facilitate skill development, networking, and community engagement. They can range from technical workshops on using specific tools to social events for members to connect and share ideas.
 
-## Safety and Rules
+## [Safety and Rules](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/1.1_Understand_what_a_Maker_Space_is_and_how_it_functions/How%20does%20a%20Maker%20Space%20function/Safety%20and%20Rules.md)
 
 Safety is a top priority in Maker Spaces. Each space has safety guidelines and rules that members are required to follow. This ensures a secure, respectful, and productive environment for all users.
 
