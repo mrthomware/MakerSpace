@@ -14,5 +14,5 @@ A comprehensive business plan demonstrates your Maker Space's potential and viab
 ## [Financial Planning](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/4.0_Develop_a_Business_Plan/Why%20Develop%20a%20Business%20Plan/Financial%20Planning.md)
 A business plan includes financial projections, helping you forecast revenues, expenses, and profitability. It enables you to manage finances effectively and secure necessary funding.
 
-## Operational Efficiency
+## [Operational Efficiency](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/4.0_Develop_a_Business_Plan/Why%20Develop%20a%20Business%20Plan/Operational%20Efficiency.md)
 A business plan outlines your operational structure, processes, and resource allocation. It ensures efficient utilization of resources and guides your day-to-day operations.
