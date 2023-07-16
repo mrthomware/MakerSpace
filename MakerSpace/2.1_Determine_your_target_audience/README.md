@@ -21,7 +21,7 @@ Determining your target audience offers several benefits:
 - **Building Customer Relationships**: Identifying your target audience allows you to build strong relationships with your customers. You can engage with them, understand their feedback, and create personalized experiences.
 - **Competitive Advantage**: Understanding your target audience gives you a competitive advantage. It helps you differentiate yourself from competitors by providing tailored solutions and experiences.
 
-## Guidance for Determining your Target Audience
+## [Guidance for Determining your Target Audience](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/2.1_Determine_your_target_audience/Guidance%20for%20Determining%20your%20Target%20Audience/README.md)
 To determine your target audience effectively, consider the following guidance:
 1. [**Market Research**](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/2.1_Determine_your_target_audience/Guidance%20for%20Determining%20your%20Target%20Audience/Market%20Research.md): Conduct thorough market research to gain insights into the demographics, psychographics, and behaviors of potential customers. Utilize surveys, interviews, focus groups, and existing market data.
 2. **Analyze Existing Customers**: Analyze the characteristics, preferences, and behaviors of your existing customer base. Identify common traits and patterns to inform your target audience definition.
