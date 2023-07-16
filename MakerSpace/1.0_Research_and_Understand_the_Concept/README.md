@@ -22,7 +22,7 @@ To ensure accuracy and reliability, the following research methodology was emplo
 ## Concept Explanation
 In this section, we present a detailed explanation of the chosen concept, including its definition, key principles, and underlying theories. By exploring its foundations and core elements, we aim to establish a solid understanding of the concept.
 
-## Applications
+## [Applications](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/1.0_Research_and_Understand_the_Concept/Applications%20of%20Makerspaces.md)
 This section explores the wide range of applications and practical implementations of the chosen concept across different industries and domains. By highlighting its relevance and showcasing real-world examples, we aim to demonstrate the concept's versatility and impact.
 
 ## Conclusion
