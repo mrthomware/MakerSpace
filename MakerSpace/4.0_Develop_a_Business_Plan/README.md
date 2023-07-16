@@ -21,7 +21,7 @@ Developing a business plan offers several benefits:
 - [**Financial Planning**](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/4.0_Develop_a_Business_Plan/Why%20Develop%20a%20Business%20Plan/Financial%20Planning.md): A business plan includes financial projections, helping you forecast revenues, expenses, and profitability. It enables you to manage finances effectively and secure necessary funding.
 - [**Operational Efficiency**](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/4.0_Develop_a_Business_Plan/Why%20Develop%20a%20Business%20Plan/Operational%20Efficiency.md): A business plan outlines your operational structure, processes, and resource allocation. It ensures efficient utilization of resources and guides your day-to-day operations.
 
-## Guidance for Creating a Business Plan
+## [Guidance for Creating a Business Plan](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/4.0_Develop_a_Business_Plan/Guidance%20for%20Creating%20a%20Business%20Plan/README.md)
 To create an effective business plan, consider the following guidance:
 1. [**Research and Analysis**](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/4.0_Develop_a_Business_Plan/Guidance%20for%20Creating%20a%20Business%20Plan/Research%20and%20Analysis.md): Conduct market research, analyze industry trends, and assess your competition. Gather data and insights to inform your strategies and validate your business idea.
 2. **Define Your Goals**: Clearly define your business goals, objectives, and mission. Ensure they are specific, measurable, attainable, relevant, and time-bound (SMART goals).
