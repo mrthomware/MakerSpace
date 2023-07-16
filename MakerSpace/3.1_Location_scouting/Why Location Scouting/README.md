@@ -16,7 +16,7 @@
 - **Legal Compliance**: Scouting enables you to identify any legal or regulatory requirements associated with specific locations. It ensures compliance and helps you secure necessary permits or permissions.
 - **Smooth Operations**: Ensuring compliance and permissions beforehand can ensure smooth operations of your Maker Space without any legal hassles.
 
-## [Risk Mitigation](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/3.1_Location_scouting/Risk%20Mitigation/README.md)
+## [Risk Mitigation](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/3.1_Location_scouting/Why%20Location%20Scouting/Risk%20Mitigation/README.md)
 - **Identify Potential Risks**: Through scouting, you can identify potential risks or challenges associated with a location. It allows you to proactively address issues and mitigate any potential disruptions.
 - **Safety Planning**: Risk assessment during scouting can also help in planning safety measures for your Maker Space.
 
