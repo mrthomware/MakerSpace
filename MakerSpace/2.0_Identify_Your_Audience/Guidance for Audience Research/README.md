@@ -14,5 +14,5 @@ Create surveys or conduct interviews with your existing members or potential mem
 ## [Observe Online Communities](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/2.0_Identify_Your_Audience/Guidance%20for%20Audience%20Research/Observe%20Online%20Communities.md)
 Join relevant online communities, forums, or social media groups where your target audience gathers. Observe their discussions, interests, and challenges to gain deeper insights. This could involve joining maker forums, DIY groups, or local community groups.
 
-## Utilize Market Research Tools
+## [Utilize Market Research Tools](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/2.0_Identify_Your_Audience/Guidance%20for%20Audience%20Research/Utilize%20Market%20Research%20Tools.md)
 Leverage market research tools and platforms that provide demographic data, consumer trends, or industry insights. These resources can help you understand the broader context and industry landscape. For example, you might use these tools to understand trends in the maker movement, popular maker projects, or demographic trends among makers.
