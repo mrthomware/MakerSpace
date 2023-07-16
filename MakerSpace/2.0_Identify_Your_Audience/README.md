@@ -33,7 +33,7 @@ Once you have gathered audience research, you can create audience profiles to co
 - [**Demographics**](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/2.0_Identify_Your_Audience/Creating%20Audience%20Profiles/Demographics.md): Include demographic information such as age, gender, location, education, occupation, or income.
 - [**Psychographics**](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/2.0_Identify_Your_Audience/Creating%20Audience%20Profiles/Psychographics.md): Explore their attitudes, values, lifestyle, motivations, and interests. Understand their aspirations, goals, and pain points.
 - [**Behaviors**](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/2.0_Identify_Your_Audience/Creating%20Audience%20Profiles/Behaviors.md): Analyze their online behaviors, purchasing habits, browsing preferences, or engagement patterns.
-- **Communication Preferences**: Identify their preferred communication channels, platforms, and content formats.
+- [**Communication Preferences**](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/2.0_Identify_Your_Audience/Creating%20Audience%20Profiles/Communication%20Preferences.md): Identify their preferred communication channels, platforms, and content formats.
 - **Needs and Challenges**: Understand their specific needs, challenges, and expectations. Determine how your offerings can address those needs effectively.
 
 ## Conclusion
