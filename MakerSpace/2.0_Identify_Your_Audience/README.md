@@ -30,7 +30,7 @@ To identify your audience effectively, consider the following guidance for audie
 
 ## [Creating Audience Profiles](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/2.0_Identify_Your_Audience/Creating%20Audience%20Profiles/README.md)
 Once you have gathered audience research, you can create audience profiles to consolidate your findings. Consider the following elements for creating audience profiles:
-- **Demographics**: Include demographic information such as age, gender, location, education, occupation, or income.
+- [**Demographics**](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/2.0_Identify_Your_Audience/Creating%20Audience%20Profiles/Demographics.md): Include demographic information such as age, gender, location, education, occupation, or income.
 - **Psychographics**: Explore their attitudes, values, lifestyle, motivations, and interests. Understand their aspirations, goals, and pain points.
 - **Behaviors**: Analyze their online behaviors, purchasing habits, browsing preferences, or engagement patterns.
 - **Communication Preferences**: Identify their preferred communication channels, platforms, and content formats.
