@@ -11,7 +11,7 @@ A well-crafted business plan outlines your strategies and tactics for achieving 
 ## [Attracting Stakeholders](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/4.0_Develop_a_Business_Plan/Why%20Develop%20a%20Business%20Plan/Attracting%20Stakeholders.md)
 A comprehensive business plan demonstrates your Maker Space's potential and viability, making it more attractive to potential partners, sponsors, or donors.
 
-## Financial Planning
+## [Financial Planning](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/4.0_Develop_a_Business_Plan/Why%20Develop%20a%20Business%20Plan/Financial%20Planning.md)
 A business plan includes financial projections, helping you forecast revenues, expenses, and profitability. It enables you to manage finances effectively and secure necessary funding.
 
 ## Operational Efficiency
