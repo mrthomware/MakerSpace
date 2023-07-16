@@ -11,7 +11,7 @@ Utilize existing data sources, such as membership databases or website analytics
 ## [Conduct Surveys and Interviews](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/2.0_Identify_Your_Audience/Guidance%20for%20Audience%20Research/Conduct%20Surveys%20and%20Interviews.md)
 Create surveys or conduct interviews with your existing members or potential members. Ask questions about their interests, preferred learning methods, and motivations for using a Maker Space. This can help you tailor your offerings to meet their needs and interests.
 
-## Observe Online Communities
+## [Observe Online Communities](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/2.0_Identify_Your_Audience/Guidance%20for%20Audience%20Research/Observe%20Online%20Communities.md)
 Join relevant online communities, forums, or social media groups where your target audience gathers. Observe their discussions, interests, and challenges to gain deeper insights. This could involve joining maker forums, DIY groups, or local community groups.
 
 ## Utilize Market Research Tools
