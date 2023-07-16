@@ -17,7 +17,7 @@ A Maker Space, also known as a hackerspace or fab lab, is a collaborative worksp
 ## Why are Maker Spaces important?
 Maker Spaces play a crucial role in promoting creativity, innovation, and problem-solving skills. They provide an environment where people from diverse backgrounds can collaborate, share ideas, and work on projects. Maker Spaces also enable access to tools and technologies that might be otherwise inaccessible to individuals. They empower learners to become creators and bridge the gap between theoretical knowledge and practical application.
 
-## Components of a Maker Space
+## [Components of a MakerSpace](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/1.1_Understand_what_a_Maker_Space_is_and_how_it_functions/Components%20of%20a%20Maker%20Space/README.md)
 A typical Maker Space consists of the following components:
 - [**Tools and Equipment**](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/1.1_Understand_what_a_Maker_Space_is_and_how_it_functions/Components%20of%20a%20Maker%20Space/Tools%20and%20Equipment.md): Maker Spaces provide a wide range of tools and equipment, including 3D printers, laser cutters, CNC machines, electronics components, woodworking tools, and more. These resources enable users to bring their ideas to life.
 - [**Workstations**](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/1.1_Understand_what_a_Maker_Space_is_and_how_it_functions/MakerSpace%20Workstations.md): Maker Spaces offer dedicated workstations equipped with workbenches, power tools, soldering stations, and other essentials for hands-on projects.
