@@ -1,6 +1,6 @@
 # Guidance for Location Scouting for a Maker Space
 
-## Define Your Requirements
+## [Define Your Requirements](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/3.1_Location_scouting/Guidance%20for%20Location%20Scouting/Define%20Your%20Requirements.md)
 - **Specific Requirements**: Clearly define the specific requirements you are seeking in a location. This could include the size, layout, and any specific facilities needed for your Maker Space.
 - **Aesthetics and Ambiance**: Consider the aesthetics and ambiance you want for your Maker Space. This could influence the types of locations you consider.
 
