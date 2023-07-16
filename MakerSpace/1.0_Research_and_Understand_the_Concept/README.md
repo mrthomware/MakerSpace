@@ -7,7 +7,7 @@ This section focuses on researching and understanding a specific concept. It aim
 - [Introduction](#introduction)
 - [Research Methodology](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/1.0_Research_and_Understand_the_Concept/References%20form%20Research%20Methodology.md)
 - [Concept Explanation](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/1.0_Research_and_Understand_the_Concept/Concept%20Explanation.md)
-- [Applications]([#applications](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/1.0_Research_and_Understand_the_Concept/Applications%20of%20Makerspaces.md))
+- [Applications](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/1.0_Research_and_Understand_the_Concept/Applications%20of%20Makerspaces.md)
 - [Conclusion](#conclusion)
 
 ## Introduction
