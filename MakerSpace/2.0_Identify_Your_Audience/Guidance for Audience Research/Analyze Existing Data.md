@@ -1,18 +1,15 @@
-# Guidance for Audience Research in a Maker Space
+# Analyzing Existing Data for Audience Research in a Maker Space
 
-To identify your audience effectively for a Maker Space, consider the following guidance for audience research:
+When conducting audience research for a Maker Space, it's beneficial to analyze existing data to gain initial insights into your audience's demographics, behaviors, and interests. Here are some examples of how you might do this:
 
-## Define Your Objectives
-Clearly define the objectives of your audience research. Determine what information you need to gather and how it will inform your strategies. For example, you might want to understand your audience's interests, skill levels, and reasons for wanting to use a Maker Space.
+1. **Membership Databases:** Analyze your membership database to understand the demographics of your members. This could include age, gender, occupation, and other relevant information.
 
-## Analyze Existing Data
-Utilize existing data sources, such as membership databases or website analytics, to gain initial insights into your audience's demographics, behaviors, and interests. This could involve analyzing the types of projects your members work on, the tools and equipment they use most, or the times of day they typically visit your Maker Space.
+2. **Project Types:** Look at the types of projects your members work on. This can give you insight into their interests and the types of tools and equipment they need.
 
-## Conduct Surveys and Interviews
-Create surveys or conduct interviews with your existing members or potential members. Ask questions about their interests, preferred learning methods, and motivations for using a Maker Space. This can help you tailor your offerings to meet their needs and interests.
+3. **Tool and Equipment Usage:** Analyze the usage of different tools and equipment in your Maker Space. This can help you understand which resources are most valuable to your members.
 
-## Observe Online Communities
-Join relevant online communities, forums, or social media groups where your target audience gathers. Observe their discussions, interests, and challenges to gain deeper insights. This could involve joining maker forums, DIY groups, or local community groups.
+4. **Visit Times:** Look at when your members typically visit your Maker Space. This can help you plan for peak times and ensure you have adequate resources available when your members need them.
 
-## Utilize Market Research Tools
-Leverage market research tools and platforms that provide demographic data, consumer trends, or industry insights. These resources can help you understand the broader context and industry landscape. For example, you might use these tools to understand trends in the maker movement, popular maker projects, or demographic trends among makers.
+5. **Website Analytics:** If you have a website for your Maker Space, analyze your website analytics. This can provide insights into how people find your Maker Space, which pages they visit, and what information they're looking for.
+
+By analyzing this existing data, you can gain valuable insights into your audience's needs and preferences, helping you make informed decisions about how to best serve your community.
