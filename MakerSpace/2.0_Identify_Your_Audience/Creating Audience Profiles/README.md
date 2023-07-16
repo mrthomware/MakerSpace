@@ -1,0 +1,18 @@
+# Creating Audience Profiles for a Maker Space
+
+Once you have gathered audience research, you can create audience profiles to consolidate your findings. Here's how you can do it:
+
+## Demographics
+Include demographic information such as age, gender, location, education, occupation, or income. For a Maker Space, you might also want to consider their technical skills or experience with making.
+
+## Psychographics
+Explore their attitudes, values, lifestyle, motivations, and interests. What drives them to create? What types of projects are they interested in? What are their aspirations, goals, and pain points related to making?
+
+## Behaviors
+Analyze their behaviors. This could include their online behaviors, such as how they interact with your website or social media, as well as their behaviors in the Maker Space, such as their preferred tools, equipment, or workstations.
+
+## Communication Preferences
+Identify their preferred communication channels, platforms, and content formats. Do they prefer email updates, social media posts, or face-to-face communication? Do they engage with video tutorials, blog posts, or live workshops?
+
+## Needs and Challenges
+Understand their specific needs, challenges, and expectations. Determine how your offerings can address those needs effectively. This could involve offering specific tools or equipment, providing training on certain skills, or creating a supportive and inclusive environment.
