@@ -11,7 +11,7 @@ Explore their attitudes, values, lifestyle, motivations, and interests. What dri
 ## [Behaviors](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/2.0_Identify_Your_Audience/Creating%20Audience%20Profiles/Behaviors.md)
 Analyze their behaviors. This could include their online behaviors, such as how they interact with your website or social media, as well as their behaviors in the Maker Space, such as their preferred tools, equipment, or workstations.
 
-## Communication Preferences
+## [Communication Preferences](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/2.0_Identify_Your_Audience/Creating%20Audience%20Profiles/Communication%20Preferences.md)
 Identify their preferred communication channels, platforms, and content formats. Do they prefer email updates, social media posts, or face-to-face communication? Do they engage with video tutorials, blog posts, or live workshops?
 
 ## Needs and Challenges
