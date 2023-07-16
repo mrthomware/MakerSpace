@@ -4,7 +4,7 @@
 - **Alignment with Requirements**: Scouting allows you to find locations that visually align with your Maker Space's requirements. It helps you find spaces that enhance the aesthetics or atmosphere of your Maker Space.
 - **Enhanced Experience**: A visually appealing location can enhance the experience for your members, encouraging creativity and collaboration.
 
-## [Logistical Considerations](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/3.1_Location_scouting/Logistical%20Considerations.md)
+## [Logistical Considerations](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/3.1_Location_scouting/Logistical%20Considerations/README.md)
 - **Practicality and Feasibility**: Scouting helps you evaluate the practicality and feasibility of a location. It allows you to assess factors such as accessibility, parking, power supply, and available facilities.
 - **Optimal Space Utilization**: By evaluating the space during scouting, you can plan for optimal utilization of the space for various activities in your Maker Space.
 
