@@ -14,7 +14,7 @@ Once an individual becomes a member, they can access the Maker Space during its 
 
 Collaboration is a key aspect of Maker Spaces. Members can work on their own projects or team up with others to work on larger initiatives. This collaborative environment fosters knowledge sharing and mutual learning.
 
-## Events and Workshops
+## [Events and Workshops](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/1.1_Understand_what_a_Maker_Space_is_and_how_it_functions/How%20does%20a%20Maker%20Space%20function/Events%20and%20Workshops.md)
 
 Many Maker Spaces host events, workshops, and training sessions. These activities facilitate skill development, networking, and community engagement. They can range from technical workshops on using specific tools to social events for members to connect and share ideas.
 
