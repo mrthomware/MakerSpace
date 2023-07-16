@@ -1,4 +1,4 @@
-# Maker Space Membership
+# MakerSpace Membership
 
 ## Overview
 
