@@ -8,7 +8,7 @@ A business plan helps you clarify your vision, mission, and objectives for your 
 ## [Strategic Guidance](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/4.0_Develop_a_Business_Plan/Why%20Develop%20a%20Business%20Plan/Strategic%20Guidance.md)
 A well-crafted business plan outlines your strategies and tactics for achieving your goals. It helps you make informed decisions and navigate challenges effectively.
 
-## Attracting Stakeholders
+## [Attracting Stakeholders](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/4.0_Develop_a_Business_Plan/Why%20Develop%20a%20Business%20Plan/Attracting%20Stakeholders.md)
 A comprehensive business plan demonstrates your Maker Space's potential and viability, making it more attractive to potential partners, sponsors, or donors.
 
 ## Financial Planning
