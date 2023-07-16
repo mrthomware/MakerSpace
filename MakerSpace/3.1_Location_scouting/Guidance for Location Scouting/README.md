@@ -16,7 +16,7 @@
 - **Documentation**: Document details, take photographs, or create sketches to help compare and evaluate each location effectively.
 - **Comparison**: Consider the pros and cons of each location in relation to your Maker Space's requirements. This could include factors such as cost, location, facilities, and potential for growth.
 
-## Communicate and Collaborate
+## [Communicate and Collaborate](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/3.1_Location_scouting/Guidance%20for%20Location%20Scouting/Communicating%20and%20Collaborating.md)
 - **Team Engagement**: Engage with your team or stakeholders during the scouting process. Share insights, gather input, and consider different perspectives to make informed decisions.
 - **Community Engagement**: Consider involving your future Maker Space community in the decision-making process. Their input could be invaluable in choosing the right location.
 
