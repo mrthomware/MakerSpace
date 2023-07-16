@@ -32,7 +32,7 @@ To conduct effective location scouting, consider the following guidance:
 ## [Key Factors to Consider](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/3.1_Location_scouting/Key%20Factors%20to%20Consider/README.md)
 During location scouting, consider the following key factors:
 - [**Visual Compatibility**](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/3.1_Location_scouting/Key%20Factors%20to%20Consider/Visual%20Compatibility/README.md): Assess the visual compatibility of the location with your project's or event's requirements. Consider its suitability for the desired aesthetics, themes, or ambiance.
-- **Logistical Considerations**: Evaluate the logistical aspects of the location, such as accessibility, parking availability, power supply, restroom facilities, and nearby amenities.
+- [**Logistical Considerations**](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/3.1_Location_scouting/Key%20Factors%20to%20Consider/Logistical%20Considerations/README): Evaluate the logistical aspects of the location, such as accessibility, parking availability, power supply, restroom facilities, and nearby amenities.
 - **Permits and Permissions**: Research any permits or permissions required to use the location for your project or event. Identify any potential limitations or restrictions.
 - **Safety and Security**: Assess the safety and security aspects of the location. Consider factors such as crowd management, emergency access, and potential risks associated with the location.
 - **Environmental Impact**: Evaluate the potential environmental impact of using the location. Consider any conservation or sustainability requirements and ensure responsible usage.
