@@ -6,7 +6,7 @@ To determine your target audience effectively, consider the following guidance:
 
 2. [**Analyze Existing Customers**](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/2.1_Determine_your_target_audience/Guidance%20for%20Determining%20your%20Target%20Audience/Analyze%20Existing%20Customers.md): Analyze the characteristics, preferences, and behaviors of your existing customer base. Identify common traits and patterns to inform your target audience definition. For a Maker Space, this could involve analyzing your current members' interests, skills, usage patterns, and feedback.
 
-3. **Segmentation**: Segment your audience based on relevant criteria such as age, gender, location, interests, making behavior, or skill levels. This helps create distinct audience profiles and tailor your strategies accordingly.
+3. [**Segmentation**](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/2.1_Determine_your_target_audience/Guidance%20for%20Determining%20your%20Target%20Audience/Segmentation.md): Segment your audience based on relevant criteria such as age, gender, location, interests, making behavior, or skill levels. This helps create distinct audience profiles and tailor your strategies accordingly.
 
 4. **Develop Personas**: Create detailed personas that represent different segments of your target audience. Personas include information like demographics, interests, goals, challenges, and making behavior. For a Maker Space, this could involve creating personas such as "The Tech Enthusiast", "The Artistic Maker", or "The DIY Hobbyist".
 
