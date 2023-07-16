@@ -2,7 +2,7 @@
 
 Creating an effective business plan is a critical step in launching and managing a successful Maker Space. Here's some guidance to help you create your business plan:
 
-## Research and Analysis
+## [Research and Analysis](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/4.0_Develop_a_Business_Plan/Guidance%20for%20Creating%20a%20Business%20Plan/Research%20and%20Analysis.md)
 Conduct market research, analyze industry trends, and assess your competition. Gather data and insights to inform your strategies and validate your business idea.
 
 ## Define Your Goals
