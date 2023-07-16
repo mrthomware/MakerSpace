@@ -2,7 +2,7 @@
 
 To identify your audience effectively for a Maker Space, consider the following guidance for audience research:
 
-## Define Your Objectives
+## [Define Your Objectives](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/2.0_Identify_Your_Audience/Guidance%20for%20Audience%20Research/Define%20Your%20Objectives.md)
 Clearly define the objectives of your audience research. Determine what information you need to gather and how it will inform your strategies. For example, you might want to understand your audience's interests, skill levels, and reasons for wanting to use a Maker Space.
 
 ## Analyze Existing Data
