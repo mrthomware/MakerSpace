@@ -19,7 +19,7 @@ To ensure accuracy and reliability, the following research methodology was emplo
 2. **Expert Interviews**: Interviews with experts in the field were conducted to gather insights, perspectives, and practical applications of the concept.
 3. **Case Studies**: Analysis of real-world case studies and examples related to the concept was undertaken to provide practical illustrations.
 
-## Concept Explanation
+## [Concept Explanation](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/1.0_Research_and_Understand_the_Concept/Concept%20Explanation.md)
 In this section, we present a detailed explanation of the chosen concept, including its definition, key principles, and underlying theories. By exploring its foundations and core elements, we aim to establish a solid understanding of the concept.
 
 ## [Applications](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/1.0_Research_and_Understand_the_Concept/Applications%20of%20Makerspaces.md)
