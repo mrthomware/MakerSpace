@@ -23,7 +23,7 @@ Location scouting offers several benefits:
 
 ## Guidance for Location Scouting
 To conduct effective location scouting, consider the following guidance:
-1. **Define Your Requirements**: Clearly define the specific requirements, aesthetics, and ambiance you are seeking in a location. Consider factors such as setting, size, architectural style, and any specific logistical needs.
+1. [**Define Your Requirements**](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/3.1_Location_scouting/Defining%20Your%20Requirements%20for%20a%20Maker%20Space%20Location.md): Clearly define the specific requirements, aesthetics, and ambiance you are seeking in a location. Consider factors such as setting, size, architectural style, and any specific logistical needs.
 2. **Research Potential Locations**: Utilize online resources, location databases, or local contacts to identify potential locations that align with your requirements. Explore photography, film, or event forums for recommendations.
 3. **Visit and Assess Locations**: Visit each potential location in person to evaluate its suitability. Assess factors such as visual appeal, lighting conditions, acoustics, available space, and any potential challenges.
 4. **Document and Compare**: Document details, take photographs, or create sketches to help compare and evaluate each location effectively. Consider the pros and cons of each location in relation to your project's or event's requirements.
