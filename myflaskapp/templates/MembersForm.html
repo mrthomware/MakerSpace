@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Membership Application Form</title>
+    <link rel="stylesheet" type="text/css" href="MakerSpace.css">
+</head>
+<body>
+    <h1>Membership Application Form</h1>
+
+    <form action="/submit_form" method="POST">
+        <label for="name">Full Name:</label><br>
+        <input type="text" id="name" name="name"><br>
+
+        <label for="email">Email Address:</label><br>
+        <input type="email" id="email" name="email"><br>
+
+        <label for="phone">Phone Number:</label><br>
+        <input type="tel" id="phone" name="phone"><br>
+
+        <h2>Membership Option</h2>
+        <input type="radio" id="dayPass" name="membership" value="dayPass">
+        <label for="dayPass">Day Pass</label><br>
+
+        <input type="radio" id="monthly" name="membership" value="monthly">
+        <label for="monthly">Monthly Membership</label><br>
+
+        <input type="radio" id="yearly" name="membership" value="yearly">
+        <label for="yearly">Yearly Membership</label><br>
+
+        <h2>Payment Method</h2>
+        <input type="radio" id="creditCard" name="payment" value="creditCard">
+        <label for="creditCard">Credit Card</label><br>
+
+        <input type="radio" id="bankTransfer" name="payment" value="bankTransfer">
+        <label for="bankTransfer">Bank Transfer</label><br>
+
+        <input type="radio" id="inPerson" name="payment" value="inPerson">
+        <label for="inPerson">In Person</label><br>
+
+        <h2>Orientation Session</h2>
+        <input type="radio" id="weekdayMornings" name="orientation" value="weekdayMornings">
+        <label for="weekdayMornings">Weekday Mornings</label><br>
+
+        <input type="radio" id="weekdayAfternoons" name="orientation" value="weekdayAfternoons">
+        <label for="weekdayAfternoons">Weekday Afternoons</label><br>
+
+        <input type="radio" id="weekdayEvenings" name="orientation" value="weekdayEvenings">
+        <label for="weekdayEvenings">Weekday Evenings</label><br>
+
+        <input type="radio" id="weekend" name="orientation" value="weekend">
+        <label for="weekend">Weekend</label><br>
+
+        <input type="submit" value="Submit">
+    </form>
+</body>
+</html>
