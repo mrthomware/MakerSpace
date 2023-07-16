@@ -31,7 +31,7 @@ The functioning of a Maker Space varies depending on its size, purpose, and comm
 2. **Access and Usage**: Once a member, individuals can access the Maker Space during designated hours. They can utilize the tools, equipment, and workstations based on their project needs.
 3. **Project Collaboration**: Maker Spaces encourage collaboration among members. Users can work on their individual projects or collaborate with others on larger initiatives, sharing knowledge and expertise.
 4. **Events and Workshops**: Maker Spaces often organize events, workshops, and training sessions to facilitate skill development, networking, and community engagement.
-5. **Safety and Rules**: Maker Spaces prioritize safety and have guidelines in place to ensure a secure working environment. Users are required to follow safety protocols and adhere to the rules of the space.
+5. [**Safety and Rules**](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/1.1_Understand_what_a_Maker_Space_is_and_how_it_functions/MakerSpace%20Safety%20and%20Rules.md): Maker Spaces prioritize safety and have guidelines in place to ensure a secure working environment. Users are required to follow safety protocols and adhere to the rules of the space.
 
 ## Conclusion
 Maker Spaces provide a dynamic environment where creativity, innovation, and collaboration thrive. They empower individuals to turn their ideas into reality and foster a sense of community among makers. By providing access to tools, resources, and a supportive network, Maker Spaces have a significant impact on learning, skill development, and the advancement of various fields.
