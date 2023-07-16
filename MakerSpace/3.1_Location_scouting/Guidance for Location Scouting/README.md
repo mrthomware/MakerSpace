@@ -12,7 +12,7 @@
 - **In-Person Visits**: Visit each potential location in person to evaluate its suitability. Assess factors such as the available space, lighting conditions, and any potential challenges.
 - **Trial Runs**: If possible, consider doing a trial run at each location. This could involve setting up some equipment and seeing how it works in the space.
 
-## Document and Compare
+## [Document and Compare](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/3.1_Location_scouting/Guidance%20for%20Location%20Scouting/Documenting%20and%20Comparing.md)
 - **Documentation**: Document details, take photographs, or create sketches to help compare and evaluate each location effectively.
 - **Comparison**: Consider the pros and cons of each location in relation to your Maker Space's requirements. This could include factors such as cost, location, facilities, and potential for growth.
 
