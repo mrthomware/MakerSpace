@@ -11,5 +11,5 @@ By identifying your audience, you can allocate your resources effectively. It al
 ## [Improved Member Acquisition](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/2.0_Identify_Your_Audience/Why%20Identify%20Your%20Audience/Improved%20Member%20Acquisition.md)
 By targeting your ideal audience, you increase the chances of attracting members who are a good fit for your Maker Space. This leads to higher member satisfaction and retention rates. For example, if your Maker Space is focused on digital fabrication, targeting audiences interested in 3D printing, laser cutting, and CNC machining can lead to a more engaged and active member base.
 
-## Enhanced User Experience
+## [Enhanced User Experience](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/2.0_Identify_Your_Audience/Why%20Identify%20Your%20Audience/Enhanced%20User%20Experience.md)
 Understanding your audience enables you to design user experiences that meet their specific needs and preferences. It ensures your Maker Space is user-friendly, intuitive, and aligned with their expectations. This could involve designing the layout of your space, choosing the right tools and equipment, or offering workshops and events that cater to your audience's skill levels and interests.
