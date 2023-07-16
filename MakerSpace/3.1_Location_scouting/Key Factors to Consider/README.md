@@ -11,7 +11,7 @@
 - **Power Supply**: Does the location have a sufficient power supply for all the equipment you plan to use?
 - **Internet Connectivity**: Does the location have a reliable and fast internet connection?
 
-## Permits and Permissions
+## [Permits and Permissions](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/3.1_Location_scouting/Key%20Factors%20to%20Consider/Permits%20and%20Permissions/README.md)
 - **Usage Permissions**: Do you have permission to use the location as a Maker Space? Are there any restrictions on the type of activities or the number of people allowed?
 - **Building Codes**: Does the location comply with local building codes, especially for safety and accessibility?
 
