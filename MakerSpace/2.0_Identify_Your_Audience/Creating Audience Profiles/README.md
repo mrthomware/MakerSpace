@@ -14,5 +14,5 @@ Analyze their behaviors. This could include their online behaviors, such as how 
 ## [Communication Preferences](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/2.0_Identify_Your_Audience/Creating%20Audience%20Profiles/Communication%20Preferences.md)
 Identify their preferred communication channels, platforms, and content formats. Do they prefer email updates, social media posts, or face-to-face communication? Do they engage with video tutorials, blog posts, or live workshops?
 
-## Needs and Challenges
+## [Needs and Challenges](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/2.0_Identify_Your_Audience/Creating%20Audience%20Profiles/Needs%20and%20Challenges.md)
 Understand their specific needs, challenges, and expectations. Determine how your offerings can address those needs effectively. This could involve offering specific tools or equipment, providing training on certain skills, or creating a supportive and inclusive environment.
