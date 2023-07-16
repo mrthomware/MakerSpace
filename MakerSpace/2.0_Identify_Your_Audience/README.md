@@ -22,7 +22,7 @@ Identifying your audience offers several benefits:
 
 ## [Guidance for Audience Research](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/2.0_Identify_Your_Audience/Guidance%20for%20Audience%20Research/README.md)
 To identify your audience effectively, consider the following guidance for audience research:
-1. **Define Your Objectives**: Clearly define the objectives of your audience research. Determine what information you need to gather and how it will inform your strategies.
+1. [**Define Your Objectives**](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/2.0_Identify_Your_Audience/Guidance%20for%20Audience%20Research/Define%20Your%20Objectives.md): Clearly define the objectives of your audience research. Determine what information you need to gather and how it will inform your strategies.
 2. **Analyze Existing Data**: Utilize existing data sources, such as website analytics, customer databases, or market research reports, to gain initial insights into your audience's demographics, behaviors, and interests.
 3. **Conduct Surveys and Interviews**: Create surveys or conduct interviews with your existing customers or target market. Ask questions about their demographics, preferences, pain points, and motivations.
 4. **Observe Online Communities**: Join relevant online communities, forums, or social media groups where your target audience gathers. Observe their discussions, interests, and challenges to gain deeper insights.
