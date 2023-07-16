@@ -29,7 +29,7 @@ To conduct effective location scouting, consider the following guidance:
 4. [**Document and Compare**](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/3.1_Location_scouting/Documenting%20and%20Comparing.md): Document details, take photographs, or create sketches to help compare and evaluate each location effectively. Consider the pros and cons of each location in relation to your project's or event's requirements.
 5. [**Communicate and Collaborate**](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/3.1_Location_scouting/Communicating%20and%20Collaborating.md): Engage with your team or stakeholders during the scouting process. Share insights, gather input, and consider different perspectives to make informed decisions.
 
-## [Key Factors to Consider](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/3.1_Location_scouting/Key%20Factors%20to%20Consider%20During%20Location%20Scouting%20for%20a%20MakerSpace.md)
+## [Key Factors to Consider](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/3.1_Location_scouting/Key%20Factors%20to%20Consider/README.md)
 During location scouting, consider the following key factors:
 - **Visual Compatibility**: Assess the visual compatibility of the location with your project's or event's requirements. Consider its suitability for the desired aesthetics, themes, or ambiance.
 - **Logistical Considerations**: Evaluate the logistical aspects of the location, such as accessibility, parking availability, power supply, restroom facilities, and nearby amenities.
