@@ -4,7 +4,7 @@
 - **Specific Requirements**: Clearly define the specific requirements you are seeking in a location. This could include the size, layout, and any specific facilities needed for your Maker Space.
 - **Aesthetics and Ambiance**: Consider the aesthetics and ambiance you want for your Maker Space. This could influence the types of locations you consider.
 
-## Research Potential Locations
+## [Research Potential Locations](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/3.1_Location_scouting/Guidance%20for%20Location%20Scouting/Research%20Potential%20Locations.md)
 - **Online Resources**: Utilize online resources, location databases, or local contacts to identify potential locations that align with your requirements.
 - **Recommendations**: Consider reaching out to other Maker Space operators for recommendations. They may have valuable insights to share.
 
