@@ -5,7 +5,7 @@ Identifying your audience offers several benefits:
 ## [Focused Messaging](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/2.0_Identify_Your_Audience/Why%20Identify%20Your%20Audience/Focused%20Messaging.md)
 When you have a clear understanding of your target audience, you can tailor your messaging to resonate with their interests, challenges, and aspirations. This improves communication and engagement. For a Maker Space, this could mean tailoring communication about workshops, resources, and events that are most relevant to your audience's interests and skill levels.
 
-## Efficient Resource Allocation
+## [Efficient Resource Allocation](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/2.0_Identify_Your_Audience/Why%20Identify%20Your%20Audience/Efficient%20Resource%20Allocation.md)
 By identifying your audience, you can allocate your resources effectively. It allows you to target your efforts toward the specific group most likely to benefit from your Maker Space. This could involve investing in certain types of tools, equipment, or materials based on the interests and needs of your audience.
 
 ## Improved Member Acquisition
