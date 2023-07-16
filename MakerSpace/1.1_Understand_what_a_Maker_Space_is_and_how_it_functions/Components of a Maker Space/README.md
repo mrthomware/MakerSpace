@@ -11,7 +11,7 @@ Maker Spaces offer dedicated workstations equipped with workbenches, power tools
 ### [Materials and Supplies](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/1.1_Understand_what_a_Maker_Space_is_and_how_it_functions/Components%20of%20a%20Maker%20Space/Materials%20and%20Supplies.md)
 Users can access a variety of materials and supplies required for their projects, such as raw materials, electronics components, craft materials, and safety equipment.
 
-### Community and Collaboration
+### [Community and Collaboration](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/1.1_Understand_what_a_Maker_Space_is_and_how_it_functions/Components%20of%20a%20Maker%20Space/Community%20and%20Collaboration.md)
 Maker Spaces foster a vibrant community of makers, encouraging collaboration, knowledge sharing, and networking. They often organize workshops, events, and meetups to facilitate interactions among members.
 
 ### Training and Education
