@@ -8,7 +8,7 @@ Clearly define the objectives of your audience research. Determine what informat
 ## [Analyze Existing Data](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/2.0_Identify_Your_Audience/Guidance%20for%20Audience%20Research/Analyze%20Existing%20Data.md)
 Utilize existing data sources, such as membership databases or website analytics, to gain initial insights into your audience's demographics, behaviors, and interests. This could involve analyzing the types of projects your members work on, the tools and equipment they use most, or the times of day they typically visit your Maker Space.
 
-## Conduct Surveys and Interviews
+## [Conduct Surveys and Interviews](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/2.0_Identify_Your_Audience/Guidance%20for%20Audience%20Research/Conduct%20Surveys%20and%20Interviews.md)
 Create surveys or conduct interviews with your existing members or potential members. Ask questions about their interests, preferred learning methods, and motivations for using a Maker Space. This can help you tailor your offerings to meet their needs and interests.
 
 ## Observe Online Communities
