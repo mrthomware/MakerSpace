@@ -19,7 +19,7 @@
 - **Safety Measures**: Does the location have necessary safety measures such as fire exits, first aid kits, and safe storage for potentially dangerous tools?
 - **Security**: Does the location have security measures such as locks, alarms, or security cameras?
 
-## Environmental Impact
+## [Environmental Impact](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/3.1_Location_scouting/Key%20Factors%20to%20Consider/Environmental%20Impact/README.md)
 - **Sustainability**: Does the use of the location align with sustainability principles? Are there any conservation requirements to consider?
 - **Waste Management**: Does the location have facilities for managing waste, especially for potentially hazardous materials used in making activities?
 
