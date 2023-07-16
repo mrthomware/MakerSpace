@@ -22,17 +22,16 @@ To compile this list of Maker Spaces, the following research methodology was emp
 ## List of Maker Spaces
 Below is a curated list of Maker Spaces worth exploring:
 
-1. [Example Maker Space](https://www.examplemakerspace.com) - Location: City, Country
-   - Description: This Maker Space offers a wide range of tools and equipment, including 3D printers, laser cutters, and electronics prototyping tools. They specialize in fostering collaboration among members and organizing regular workshops and events.
-   - Website: [https://www.examplemakerspace.com](https://www.examplemakerspace.com)
+Example Maker Space - Location: City, Country
+Example Template:
+Description: This Maker Space offers a wide range of tools and equipment, including 3D printers, laser cutters, and electronics prototyping tools. They specialize in fostering collaboration among members and organizing regular workshops and events.
+Website: https://www.examplemakerspace.com
 
-2. [Another Maker Space](https://www.anothermakerspace.org) - Location: City, Country
-   - Description: Another Maker Space focuses on providing resources for woodworking, metalworking, and crafts. They have a dedicated area for textile arts and offer classes on sewing and embroidery.
-   - Website: [https://www.anothermakerspace.org](https://www.anothermakerspace.org)
+Example 1
+Description: Maker Cube is a community-based workshop and co-working space where makers of all backgrounds and experience levels can connect. They offer classes for all skill levels, approaching curriculum through project-based learning and small class sizes. The ultimate goal is to cultivate curiosity, a ‘maker’ mindset, and the capacity for complex problem-solving. Website: [Maker Cube](https://makercube.ca/)
 
-3. [Community Makers](https://www.communitymakers.org) - Location: City, Country
-   - Description: Community Makers is a non-profit Maker Space that emphasizes community engagement and social impact projects. They provide access to tools, materials, and training for individuals and organizations working on projects for social good.
-   - Website: [https://www.communitymakers.org](https://www.communitymakers.org)
+Example 2
+Description: Chilliwack Makers Space is a public group on Facebook that aims to create an inclusive collaborative space for sharing and learning. The group focuses on creating, crafting, repairing, reusing, and repurposing, and aims to bring together humans and tools in a fun, non-intimidating atmosphere. Website: [Chilliwack Makers Space](https://www.facebook.com/groups/459353204764045/?locale=hu_HU)
 
 Please note that the list above is not exhaustive, and there are numerous other Maker Spaces available globally.
 
