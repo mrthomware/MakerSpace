@@ -14,5 +14,5 @@ Users can access a variety of materials and supplies required for their projects
 ### [Community and Collaboration](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/1.1_Understand_what_a_Maker_Space_is_and_how_it_functions/Components%20of%20a%20Maker%20Space/Community%20and%20Collaboration.md)
 Maker Spaces foster a vibrant community of makers, encouraging collaboration, knowledge sharing, and networking. They often organize workshops, events, and meetups to facilitate interactions among members.
 
-### Training and Education
+### [Training and Education](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/1.1_Understand_what_a_Maker_Space_is_and_how_it_functions/Components%20of%20a%20Maker%20Space/Training%20and%20Education.md)
 Many Maker Spaces provide training sessions and workshops to help users develop skills and learn new techniques. These sessions cover topics such as electronics, woodworking, 3D printing, and more.
