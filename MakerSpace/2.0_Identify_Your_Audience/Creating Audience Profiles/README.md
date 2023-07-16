@@ -8,7 +8,7 @@ Include demographic information such as age, gender, location, education, occupa
 ## [Psychographics](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/2.0_Identify_Your_Audience/Creating%20Audience%20Profiles/Psychographics.md)
 Explore their attitudes, values, lifestyle, motivations, and interests. What drives them to create? What types of projects are they interested in? What are their aspirations, goals, and pain points related to making?
 
-## Behaviors
+## [Behaviors](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/2.0_Identify_Your_Audience/Creating%20Audience%20Profiles/Behaviors.md)
 Analyze their behaviors. This could include their online behaviors, such as how they interact with your website or social media, as well as their behaviors in the Maker Space, such as their preferred tools, equipment, or workstations.
 
 ## Communication Preferences
