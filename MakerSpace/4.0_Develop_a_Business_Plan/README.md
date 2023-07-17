@@ -41,7 +41,7 @@ A comprehensive business plan typically includes the following key components:
 - [**Operations and Management**](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/4.0_Develop_a_Business_Plan/Key%20Components%20of%20a%20Business%20Plan/Operations%20and%20Management.md): Overview of your business's operational structure, processes, and management team.
 - [**Financial Projections**](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/4.0_Develop_a_Business_Plan/Key%20Components%20of%20a%20Business%20Plan/Financial%20Projections.md): Forecasts of revenue, expenses, profit margins, and cash flow, including funding requirements and return on investment analysis.
 - [**Implementation Plan**](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/4.0_Develop_a_Business_Plan/Key%20Components%20of%20a%20Business%20Plan/Implementation%20Plan.md): Step-by-step plan for executing your strategies, timelines, and milestones.
-- **Risk Analysis and Contingency Plans**: Assessment of potential risks and challenges, along with strategies to mitigate them.
+- [**Risk Analysis and Contingency Plans**](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/4.0_Develop_a_Business_Plan/Key%20Components%20of%20a%20Business%20Plan/Risk%20Analysis%20and%20Contingency%20Plans.md): Assessment of potential risks and challenges, along with strategies to mitigate them.
 
 ## Conclusion
 Developing a comprehensive business plan is crucial for the success and sustainability of your business. By recognizing the importance of a business plan, following guidance for its creation, and including key components, you can establish a solid foundation for your business, attract stakeholders, and navigate the path to success.
