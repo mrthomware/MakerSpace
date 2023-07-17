@@ -2,7 +2,7 @@
 
 A comprehensive business plan serves as a roadmap for your business's future and is essential for attracting investors and securing funding. Here are the key components that should be included in a business plan:
 
-## 1. Executive Summary
+## 1. [Executive Summary](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/4.0_Develop_a_Business_Plan/Key%20Components%20of%20a%20Business%20Plan/Executive%20Summary.MD)
 
 A brief overview of your business, its goals, and the key highlights of your plan. This section should be compelling and concise, providing a snapshot of your business and your plans for success.
 
