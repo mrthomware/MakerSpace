@@ -21,3 +21,5 @@ Our target market is diverse and includes:
 
 Our goal is to provide a valuable service to these target groups, meeting their needs and contributing to the growth and development of our community.
 This Company Description provides detailed information about the Maker Space, its mission, vision, legal structure, services, and target market. It gives readers a clear understanding of what the business does and who it serves.
+
+This Company Description provides detailed information about the Maker Space, its mission, vision, legal structure, services, and target market. It gives readers a clear understanding of what the business does and who it serves.
