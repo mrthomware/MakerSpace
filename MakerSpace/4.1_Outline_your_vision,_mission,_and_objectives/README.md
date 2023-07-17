@@ -15,7 +15,7 @@ Outlining your vision, mission, and objectives is a fundamental aspect of your b
 
 ## [Importance of Vision, Mission, and Objectives](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/4.1_Outline_your_vision%2C_mission%2C_and_objectives/Importance%20of%20Vision%2C%20Mission%2C%20and%20Objectives/README.md)
 A well-defined vision, mission, and objectives offer several benefits:
-- **Guidance and Focus**: Your vision, mission, and objectives serve as a compass, providing guidance and focus to your business. They define your purpose, values, and goals, ensuring alignment across your organization.
+- [**Guidance and Focus**](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/4.1_Outline_your_vision%2C_mission%2C_and_objectives/Importance%20of%20Vision%2C%20Mission%2C%20and%20Objectives/Guidance%20and%20Focus.md): Your vision, mission, and objectives serve as a compass, providing guidance and focus to your business. They define your purpose, values, and goals, ensuring alignment across your organization.
 - **Strategic Decision Making**: These statements help you make informed decisions by providing a framework for evaluating opportunities and determining whether they align with your vision and mission.
 - **Motivation and Alignment**: A clear vision, mission, and objectives inspire and motivate your team. They create a sense of purpose and foster alignment, encouraging everyone to work towards common goals.
 - **Differentiation and Brand Identity**: Your vision and mission communicate your unique value proposition and differentiate your business from competitors. They contribute to building a strong brand identity and customer loyalty.
