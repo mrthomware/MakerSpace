@@ -17,7 +17,7 @@ Outline your marketing and sales strategies to reach and engage your target mark
 ## [Operations and Management](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/4.0_Develop_a_Business_Plan/Guidance%20for%20Creating%20a%20Business%20Plan/Operations%20and%20Management.md)
 Describe your Maker Space's organizational structure, key personnel, and their roles. Define your operational processes, equipment management, and safety protocols.
 
-## Financial Projections and Funding
+## [Financial Projections and Funding](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/4.0_Develop_a_Business_Plan/Guidance%20for%20Creating%20a%20Business%20Plan/Financial%20Projections%20and%20Funding.md)
 Include financial forecasts, such as revenue projections, expenses, profit margins, and cash flow analysis. Outline your funding requirements and plans to secure necessary capital.
 
 ## Risk Assessment and Mitigation
