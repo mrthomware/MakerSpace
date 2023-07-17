@@ -5,7 +5,7 @@ Creating an effective business plan is a critical step in launching and managing
 ## [Research and Analysis](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/4.0_Develop_a_Business_Plan/Guidance%20for%20Creating%20a%20Business%20Plan/Research%20and%20Analysis.md)
 Conduct market research, analyze industry trends, and assess your competition. Gather data and insights to inform your strategies and validate your business idea.
 
-## Define Your Goals
+## [Define Your Goals](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/4.0_Develop_a_Business_Plan/Guidance%20for%20Creating%20a%20Business%20Plan/Define%20Your%20Goals.md)
 Clearly define your business goals, objectives, and mission. Ensure they are specific, measurable, attainable, relevant, and time-bound (SMART goals).
 
 ## Target Market and Customer Analysis
