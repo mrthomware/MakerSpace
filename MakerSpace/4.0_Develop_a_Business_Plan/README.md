@@ -31,7 +31,7 @@ To create an effective business plan, consider the following guidance:
 6. [**Financial Projections and Funding**](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/4.0_Develop_a_Business_Plan/Guidance%20for%20Creating%20a%20Business%20Plan/Financial%20Projections%20and%20Funding.md): Include financial forecasts, such as revenue projections, expenses, profit margins, and cash flow analysis. Outline your funding requirements and plans to secure necessary capital.
 7. [**Risk Assessment and Mitigation**](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/4.0_Develop_a_Business_Plan/Guidance%20for%20Creating%20a%20Business%20Plan/Risk%20Assessment%20and%20Mitigation.md): Identify potential risks and challenges that your business may face. Develop strategies to mitigate these risks and outline contingency plans.
 
-## Key Components of a Business Plan
+## [Key Components of a Business Plan](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/4.0_Develop_a_Business_Plan/Key%20Components%20of%20a%20Business%20Plan/readme.MD)
 A comprehensive business plan typically includes the following key components:
 - [**Executive Summary**](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/4.0_Develop_a_Business_Plan/Key%20Components%20of%20a%20Business%20Plan/Executive%20Summary.MD): A brief overview of your business, its goals, and the key highlights of your plan.
 - **Company Description**: Detailed information about your business, its mission, vision, and legal structure.
