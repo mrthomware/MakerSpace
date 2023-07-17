@@ -11,7 +11,7 @@ Clearly define your business goals, objectives, and mission. Ensure they are spe
 ## [Target Market and Customer Analysis](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/4.0_Develop_a_Business_Plan/Guidance%20for%20Creating%20a%20Business%20Plan/Target%20Market%20and%20Customer%20Analysis.md)
 Identify your target market, understand their needs, preferences, and behaviors. Analyze your potential customers' demographics, psychographics, and making patterns.
 
-## Marketing and Sales Strategies
+## [Marketing and Sales Strategies](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/4.0_Develop_a_Business_Plan/Guidance%20for%20Creating%20a%20Business%20Plan/Marketing%20and%20Sales%20Strategies.md)
 Outline your marketing and sales strategies to reach and engage your target market. Define your unique selling proposition, pricing, distribution channels, and promotional tactics.
 
 ## Operations and Management
