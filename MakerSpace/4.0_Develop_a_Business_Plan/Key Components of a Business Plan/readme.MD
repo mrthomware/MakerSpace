@@ -10,7 +10,7 @@ A brief overview of your business, its goals, and the key highlights of your pla
 
 Detailed information about your business, including its mission, vision, and legal structure. This section should also describe your products or services and identify your target customers.
 
-## 3. Market Analysis
+## 3. [Market Analysis](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/4.0_Develop_a_Business_Plan/Key%20Components%20of%20a%20Business%20Plan/Market%20Analysis.md)
 
 Research and analysis of your target market, including its size, demographics, and consumer behaviors. This section should also include an overview of industry trends and a thorough analysis of your competition.
 
