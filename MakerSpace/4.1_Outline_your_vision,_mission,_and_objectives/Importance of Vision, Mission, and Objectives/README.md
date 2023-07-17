@@ -12,7 +12,7 @@ A well-defined vision, mission, and objectives offer several benefits:
 
 - [**Motivation and Alignment**](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/4.1_Outline_your_vision%2C_mission%2C_and_objectives/Importance%20of%20Vision%2C%20Mission%2C%20and%20Objectives/Motivation%20and%20Alignment.md): A clear vision, mission, and objectives inspire and motivate your team. They create a sense of purpose and foster alignment, encouraging everyone to work towards common goals.
 
-- **Differentiation and Brand Identity**: Your vision and mission communicate your unique value proposition and differentiate your business from competitors. They contribute to building a strong brand identity and customer loyalty.
+- [**Differentiation and Brand Identity**](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/4.1_Outline_your_vision%2C_mission%2C_and_objectives/Importance%20of%20Vision%2C%20Mission%2C%20and%20Objectives/Differentiation%20and%20Brand%20Identity.md): Your vision and mission communicate your unique value proposition and differentiate your business from competitors. They contribute to building a strong brand identity and customer loyalty.
 
 - **Measurement and Accountability**: Objectives provide measurable targets, allowing you to track progress and hold yourself accountable. They provide a basis for evaluating performance and making necessary adjustments.
 
