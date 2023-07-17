@@ -4,6 +4,17 @@
 
 The Makerspace Design Services industry in the US is growing, with a positive outlook for the future. The industry involves designing makerspaces in homes, schools, workplaces, and other businesses. [Source](https://www.ibisworld.com/default.aspx)
 
+# Industry Overview
+
+The Makerspace Design Services industry in Canada is growing, with a positive outlook for the future. The industry involves designing makerspaces in homes, schools, workplaces, and other businesses. 
+
+## Additional Resources
+
+1. [2020 Design Week Overview - NYU MakerSpace](https://makerspace.engineering.nyu.edu/designlab/2020-design-week-overview/): This article discusses the highlights of the 2020 Design Week, which included a panel discussion with industry professionals from fashion, design, food, and local urban farming.
+2. [Quiver Games - Riipen](https://app.riipen.com/companies/QVd2QZzb): Quiver Games aims to be the next step for amateur developers to find game industry employment.
+3. [Makerspace Guide](https://www.stratasys.com/en/resources/resource-guides/makerspace-guide/): This guide provides information on designing 3D printing labs for education and encourages STEAM exploration on industry-standard equipment.
+
+
 ## Key Industry Trends
 
 The report analyzes key industry trends, competitive threats and opportunities, market size, and product and service trends. [Source](https://www.ibisworld.com/default.aspx)
