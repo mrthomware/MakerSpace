@@ -48,6 +48,18 @@ Please note that access to the full report and specific data may require a subsc
 ## Industry Segmentation
 
 The industry is segmented into home makerspace design, school makerspace design, workplace makerspace design, and others. [Source](https://www.ibisworld.com/default.aspx)
+The Makerspace Design Services industry in Canada is segmented into various categories based on the type of space they design. These categories include:
+
+1. Home Makerspace Design: This segment involves designing makerspaces for personal use at homes. It caters to individuals who are interested in DIY projects, hobbyists, or those who require a dedicated space for their creative pursuits.
+
+2. School Makerspace Design: This segment involves designing makerspaces for educational institutions. These makerspaces are used for practical learning, promoting creativity, and hands-on experience among students.
+
+3. Workplace Makerspace Design: This segment involves designing makerspaces in workplaces. These spaces are used for fostering innovation, prototyping, and collaborative work in a corporate setting.
+
+4. Others: This segment includes designing makerspaces for other businesses or community centers.
+
+For more detailed information, you can visit the [source](https://www.ibisworld.com/default.aspx).
+
 
 ## Industry Performance
 
