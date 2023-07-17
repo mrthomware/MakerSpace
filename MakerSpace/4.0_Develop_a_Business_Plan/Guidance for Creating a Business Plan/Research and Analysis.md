@@ -18,6 +18,18 @@ The Makerspace Design Services industry in Canada is growing, with a positive ou
 ## Key Industry Trends
 
 The report analyzes key industry trends, competitive threats and opportunities, market size, and product and service trends. [Source](https://www.ibisworld.com/default.aspx)
+# Key Industry Trends for Maker Spaces
+
+Based on the information from [IBISWorld](https://www.ibisworld.com/default.aspx), here are some key industry trends relevant to Maker Spaces:
+
+1. **Growth in Makerspace Design Services**: The Makerspace Design Services industry in Canada is growing, indicating a positive outlook for the future. The industry involves designing makerspaces in homes, schools, workplaces, and other businesses.
+
+2. **Fastest Growing Industries**: Among the fastest-growing industries are "3D Printing & Rapid Prototyping Services" and "3D Printer Manufacturing". This suggests a rising interest in 3D printing, which could be a key area of focus for Maker Spaces.
+
+3. **Emerging Trends**: The report also tracks emerging trends in real time. Staying updated with these trends can help Maker Spaces adapt to changes and meet the evolving needs of their members.
+
+For more detailed insights and trends, consider accessing the full reports on the [IBISWorld website](https://www.ibisworld.com/default.aspx).
+
 
 ## Industry Forecast
 
