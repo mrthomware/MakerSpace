@@ -14,7 +14,7 @@ Identify your target market, understand their needs, preferences, and behaviors.
 ## [Marketing and Sales Strategies](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/4.0_Develop_a_Business_Plan/Guidance%20for%20Creating%20a%20Business%20Plan/Marketing%20and%20Sales%20Strategies.md)
 Outline your marketing and sales strategies to reach and engage your target market. Define your unique selling proposition, pricing, distribution channels, and promotional tactics.
 
-## Operations and Management
+## [Operations and Management](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/4.0_Develop_a_Business_Plan/Guidance%20for%20Creating%20a%20Business%20Plan/Operations%20and%20Management.md)
 Describe your Maker Space's organizational structure, key personnel, and their roles. Define your operational processes, equipment management, and safety protocols.
 
 ## Financial Projections and Funding
