@@ -34,7 +34,7 @@ Forecasts of your revenue, expenses, profit margins, and cash flow for the next 
 
 A step-by-step plan for executing your strategies, including timelines and milestones. This section should also outline your goals and objectives and how you plan to measure your progress.
 
-## 9. Risk Analysis and Contingency Plans
+## 9. [Risk Analysis and Contingency Plans](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/4.0_Develop_a_Business_Plan/Key%20Components%20of%20a%20Business%20Plan/Risk%20Analysis%20and%20Contingency%20Plans.md)
 
 An assessment of potential risks and challenges that could impact your business, along with strategies to mitigate these risks. This section should also outline your contingency plans in case things don't go as planned.
 
