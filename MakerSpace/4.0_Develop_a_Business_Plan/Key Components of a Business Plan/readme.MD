@@ -22,7 +22,7 @@ A description of your offerings, their features, and their unique value proposit
 
 Detailed plans for reaching your target market, promoting your offerings, and acquiring customers. This section should outline your marketing and advertising strategies, your sales process, and your customer retention strategies.
 
-## 6. Operations and Management
+## 6. [Operations and Management](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/4.0_Develop_a_Business_Plan/Key%20Components%20of%20a%20Business%20Plan/Operations%20and%20Management.md)
 
 An overview of your business's operational structure, including your physical location, facilities, equipment, and supply chain. This section should also outline your management team and their roles.
 
