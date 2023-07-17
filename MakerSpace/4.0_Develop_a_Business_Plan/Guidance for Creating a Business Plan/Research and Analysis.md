@@ -34,6 +34,16 @@ For more detailed insights and trends, consider accessing the full reports on th
 ## Industry Forecast
 
 The report provides a five-year forecast of the industry and key trends, providing insights into the future outlook of the Makerspace industry. [Source](https://www.ibisworld.com/default.aspx)
+# Industry Forecast for Maker Spaces
+
+Based on the information from [IBISWorld](https://www.ibisworld.com/default.aspx), a leading provider of industry market research, the Makerspace Design Services industry is experiencing growth with a positive outlook for the future. This industry involves designing makerspaces in various settings such as homes, schools, workplaces, and other businesses.
+
+Key industry trends, competitive threats and opportunities, market size, and product and service trends are analyzed in their reports. These insights provide valuable information for anyone planning to start a Maker Space.
+
+The report also provides a five-year forecast of the industry and key trends, providing insights into the future outlook of the Makerspace industry. This information can be crucial in planning and making informed decisions for your Maker Space.
+
+Please note that access to the full report and specific data may require a subscription or purchase through IBISWorld.
+
 
 ## Industry Segmentation
 
