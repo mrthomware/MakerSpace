@@ -6,7 +6,7 @@ A comprehensive business plan serves as a roadmap for your business's future and
 
 A brief overview of your business, its goals, and the key highlights of your plan. This section should be compelling and concise, providing a snapshot of your business and your plans for success.
 
-## 2. Company Description
+## 2. [Company Description](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/4.0_Develop_a_Business_Plan/Key%20Components%20of%20a%20Business%20Plan/Company%20Description.MD)
 
 Detailed information about your business, including its mission, vision, and legal structure. This section should also describe your products or services and identify your target customers.
 
