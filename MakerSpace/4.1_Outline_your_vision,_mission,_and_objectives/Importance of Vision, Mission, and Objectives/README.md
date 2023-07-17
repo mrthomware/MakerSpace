@@ -14,7 +14,7 @@ A well-defined vision, mission, and objectives offer several benefits:
 
 - [**Differentiation and Brand Identity**](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/4.1_Outline_your_vision%2C_mission%2C_and_objectives/Importance%20of%20Vision%2C%20Mission%2C%20and%20Objectives/Differentiation%20and%20Brand%20Identity.md): Your vision and mission communicate your unique value proposition and differentiate your business from competitors. They contribute to building a strong brand identity and customer loyalty.
 
-- **Measurement and Accountability**: Objectives provide measurable targets, allowing you to track progress and hold yourself accountable. They provide a basis for evaluating performance and making necessary adjustments.
+- [**Measurement and Accountability**](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/4.1_Outline_your_vision%2C_mission%2C_and_objectives/Importance%20of%20Vision%2C%20Mission%2C%20and%20Objectives/Measurement%20and%20Accountability.md): Objectives provide measurable targets, allowing you to track progress and hold yourself accountable. They provide a basis for evaluating performance and making necessary adjustments.
 
 ## Getting Started
 
