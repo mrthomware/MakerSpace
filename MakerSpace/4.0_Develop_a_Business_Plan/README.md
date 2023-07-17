@@ -33,7 +33,7 @@ To create an effective business plan, consider the following guidance:
 
 ## Key Components of a Business Plan
 A comprehensive business plan typically includes the following key components:
-- **Executive Summary**: A brief overview of your business, its goals, and the key highlights of your plan.
+- [**Executive Summary**](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/4.0_Develop_a_Business_Plan/Key%20Components%20of%20a%20Business%20Plan/Executive%20Summary.MD): A brief overview of your business, its goals, and the key highlights of your plan.
 - **Company Description**: Detailed information about your business, its mission, vision, and legal structure.
 - **Market Analysis**: Research and analysis of your target market, industry trends, and competitive landscape.
 - **Products or Services**: Description of your offerings, their features, unique value proposition, and pricing strategies.
