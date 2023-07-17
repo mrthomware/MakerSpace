@@ -6,7 +6,7 @@ This project explores the importance of having a clear vision, mission, and obje
 
 A well-defined vision, mission, and objectives offer several benefits:
 
-- **Guidance and Focus**: Your vision, mission, and objectives serve as a compass, providing guidance and focus to your business. They define your purpose, values, and goals, ensuring alignment across your organization.
+- [**Guidance and Focus**](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/4.1_Outline_your_vision%2C_mission%2C_and_objectives/Importance%20of%20Vision%2C%20Mission%2C%20and%20Objectives/Guidance%20and%20Focus.md): Your vision, mission, and objectives serve as a compass, providing guidance and focus to your business. They define your purpose, values, and goals, ensuring alignment across your organization.
 
 - **Strategic Decision Making**: These statements help you make informed decisions by providing a framework for evaluating opportunities and determining whether they align with your vision and mission.
 
