@@ -8,7 +8,7 @@ Conduct market research, analyze industry trends, and assess your competition. G
 ## [Define Your Goals](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/4.0_Develop_a_Business_Plan/Guidance%20for%20Creating%20a%20Business%20Plan/Define%20Your%20Goals.md)
 Clearly define your business goals, objectives, and mission. Ensure they are specific, measurable, attainable, relevant, and time-bound (SMART goals).
 
-## Target Market and Customer Analysis
+## [Target Market and Customer Analysis](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/4.0_Develop_a_Business_Plan/Guidance%20for%20Creating%20a%20Business%20Plan/Target%20Market%20and%20Customer%20Analysis.md)
 Identify your target market, understand their needs, preferences, and behaviors. Analyze your potential customers' demographics, psychographics, and making patterns.
 
 ## Marketing and Sales Strategies
