@@ -18,7 +18,7 @@ Research and analysis of your target market, including its size, demographics, a
 
 A description of your offerings, their features, and their unique value proposition. This section should also outline your pricing strategies and provide a comparison to the offerings of your competitors.
 
-## 5. Marketing and Sales Strategies
+## 5. [Marketing and Sales Strategies](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/4.0_Develop_a_Business_Plan/Key%20Components%20of%20a%20Business%20Plan/Marketing%20and%20Sales%20Strategies.md)
 
 Detailed plans for reaching your target market, promoting your offerings, and acquiring customers. This section should outline your marketing and advertising strategies, your sales process, and your customer retention strategies.
 
