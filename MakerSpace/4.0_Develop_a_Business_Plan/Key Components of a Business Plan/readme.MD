@@ -30,7 +30,7 @@ An overview of your business's operational structure, including your physical lo
 
 Forecasts of your revenue, expenses, profit margins, and cash flow for the next three to five years. This section should also include your funding requirements and a return on investment analysis for any potential investors.
 
-## 8. Implementation Plan
+## 8. [Implementation Plan](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/4.0_Develop_a_Business_Plan/Key%20Components%20of%20a%20Business%20Plan/Implementation%20Plan.md)
 
 A step-by-step plan for executing your strategies, including timelines and milestones. This section should also outline your goals and objectives and how you plan to measure your progress.
 
