@@ -14,7 +14,7 @@ Detailed information about your business, including its mission, vision, and leg
 
 Research and analysis of your target market, including its size, demographics, and consumer behaviors. This section should also include an overview of industry trends and a thorough analysis of your competition.
 
-## 4. Products or Services
+## 4. [Products or Services](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/4.0_Develop_a_Business_Plan/Key%20Components%20of%20a%20Business%20Plan/Products%20or%20Services.md)
 
 A description of your offerings, their features, and their unique value proposition. This section should also outline your pricing strategies and provide a comparison to the offerings of your competitors.
 
