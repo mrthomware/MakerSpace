@@ -3,51 +3,51 @@
 Welcome to the comprehensive guide on setting up a maker space! This guide is designed to provide you with step-by-step instructions, valuable insights, and practical tips to help you successfully establish and run your own maker space. Whether you're starting from scratch or looking to enhance an existing space, this guide will assist you in creating a vibrant and engaging environment for makers, learners, and innovators.
 
 ## Table of Contents
-1. [Introduction](#introduction)
-2. [Chapter 1: Understanding Maker Spaces](#chapter-1-understanding-maker-spaces)
+ [Introduction](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/Setting_Up_a_Maker_Space-_A_Comprehensive_Guide/Introduction.md)
+ [Chapter 1: Understanding Maker Spaces](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/Setting_Up_a_Maker_Space-_A_Comprehensive_Guide/Chapter%201%20Understanding%20Maker%20Spaces.md)
    - 1.1 What is a Maker Space?
    - 1.2 Benefits of a Maker Space
    - 1.3 How Maker Spaces Function
    - 1.4 Maker Space Examples
-3. [Chapter 2: Planning and Preparation](#chapter-2-planning-and-preparation)
+ [Chapter 2: Planning and Preparation](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/Setting_Up_a_Maker_Space-_A_Comprehensive_Guide/Chapter%202%20Planning%20and%20Preparation%2Cmd)
    - 2.1 Determine Your Objectives and Target Audience
    - 2.2 Conduct Market Research
    - 2.3 Establish a Budget
    - 2.4 Find a Suitable Location
-4. [Chapter 3: Designing the Space](#chapter-3-designing-the-space)
+ [Chapter 3: Designing the Space](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/Setting_Up_a_Maker_Space-_A_Comprehensive_Guide/Chapter%203%20Designing%20the%20Space.md)
    - 3.1 Space Layout and Infrastructure
    - 3.2 Furniture and Storage Solutions
    - 3.3 Safety Considerations
    - 3.4 Accessibility and Inclusivity
-5. [Chapter 4: Equipment and Tools](#chapter-4-equipment-and-tools)
+ [Chapter 4: Equipment and Tools](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/Setting_Up_a_Maker_Space-_A_Comprehensive_Guide/Chapter%204%20Equipment%20and%20Tools.md)
    - 4.1 Identifying Necessary Tools and Equipment
    - 4.2 Procuring Equipment and Tools
    - 4.3 Tool Organization and Maintenance
-6. [Chapter 5: Programming and Workshops](#chapter-5-programming-and-workshops)
+ [Chapter 5: Programming and Workshops](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/Setting_Up_a_Maker_Space-_A_Comprehensive_Guide/Chapter%205%20Programming%20and%20Workshops.md)
    - 5.1 Planning Workshops and Classes
    - 5.2 Collaborating with Instructors and Experts
    - 5.3 Developing a Diverse Program Schedule
-7. [Chapter 6: Community Engagement](#chapter-6-community-engagement)
+ [Chapter 6: Community Engagement](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/Setting_Up_a_Maker_Space-_A_Comprehensive_Guide/Chapter%206%20Community%20Engagement.md)
    - 6.1 Outreach and Marketing Strategies
    - 6.2 Building Partnerships and Collaborations
    - 6.3 Engaging with Local Schools and Organizations
-8. [Chapter 7: Staffing and Management](#chapter-7-staffing-and-management)
+ [Chapter 7: Staffing and Management](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/Setting_Up_a_Maker_Space-_A_Comprehensive_Guide/Chapter%207%20Staffing%20and%20Management.md)
    - 7.1 Determining Staffing Needs
    - 7.2 Recruitment and Hiring
    - 7.3 Training and Development
    - 7.4 Volunteer Management
-9. [Chapter 8: Launching and Operations](#chapter-8-launching-and-operations)
+ [Chapter 8: Launching and Operations](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/Setting_Up_a_Maker_Space-_A_Comprehensive_Guide/Chapter%208%20Launching%20and%20Operations.md)
    - 8.1 Grand Opening Event
    - 8.2 Establishing Operational Policies and Procedures
    - 8.3 Managing Finances and Funding
    - 8.4 Evaluation and Continuous Improvement
-10. [Chapter 9: Sustainability and Growth](#chapter-9-sustainability-and-growth)
+ [Chapter 9: Sustainability and Growth](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/Setting_Up_a_Maker_Space-_A_Comprehensive_Guide/Chapter%209%20Sustainability%20and%20Growth.md)
     - 9.1 Fundraising and Revenue Generation
     - 9.2 Collaboration and Expansion Opportunities
     - 9.3 Monitoring Key Performance Indicators
     - 9.4 Adapting to Changing Needs and Technologies
-11. [Conclusion](#conclusion)
-12. [Additional Resources](#additional-resources)
+ [Conclusion](https://github.com/mrthomware/MakerSpace/blob/main/MakerSpace/Setting_Up_a_Maker_Space-_A_Comprehensive_Guide/Conclusion.md)
+ [Additional Resources](#additional-resources)
 
 ## Introduction
 In this introductory section, we will provide an overview of maker spaces, their benefits, and how they function. Gain a clear understanding of the concept before delving into the guide's chapters.
