@@ -1,23 +1,26 @@
 {
 	"nodes":[
-		{"id":"00c4933e0141dc43","x":-1900,"y":-240,"width":440,"height":3660,"type":"group","label":"Starter Kits"},
-		{"id":"d2733acaa57063e3","x":-1880,"y":-220,"width":400,"height":400,"type":"link","url":"https://www.preciousplastic.com/starterkits/showcase/collection-point"},
-		{"id":"93b12b049ce15a92","x":-1880,"y":240,"width":400,"height":400,"type":"link","url":"https://www.preciousplastic.com/starterkits/showcase/community-point"},
-		{"id":"0d524752de909bd4","x":-1880,"y":700,"width":400,"height":400,"type":"link","url":"https://www.preciousplastic.com/starterkits/showcase/machine-shop"},
-		{"id":"b4332dc5aed29c3a","x":-1880,"y":1160,"width":400,"height":400,"type":"link","url":"https://www.preciousplastic.com/starterkits/showcase/shredder"},
-		{"id":"67daf05f336d543a","x":-1880,"y":1620,"width":400,"height":400,"type":"link","url":"https://www.preciousplastic.com/starterkits/showcase/extrusion"},
-		{"id":"eb6b863cbeb91c37","x":-1880,"y":2080,"width":400,"height":400,"type":"link","url":"https://www.preciousplastic.com/starterkits/showcase/sheetpress"},
-		{"id":"7eabfb0909f435b5","x":-1880,"y":2540,"width":400,"height":400,"type":"link","url":"https://www.preciousplastic.com/starterkits/showcase/injection"},
-		{"id":"9ebd2670ba889ed9","x":-1880,"y":3000,"width":400,"height":400,"type":"link","url":"https://www.preciousplastic.com/starterkits/showcase/mix"},
-		{"id":"43f22ac07135b59c","x":-1902,"y":-500,"width":444,"height":191,"type":"text","text":"\n```cardlink\nurl: https://www.preciousplastic.com/\ntitle: \"Say hi to the Precious Plastic Universe\"\ndescription: \"The alternative plastic recycling system run by people.\"\nhost: www.preciousplastic.com\nimage: https://assets-global.website-files.com/5e004b03e5da773c54823bfb/5e12fe6fc5e98c5911fd3bac_open-graph-precious-plastic.jpg\n```\n"},
-		{"id":"4b7416e94d584777","x":-1420,"y":-234,"width":931,"height":394,"type":"text","text":"![[Pasted image 20240110063722.png]]"},
+		{"id":"00c4933e0141dc43","type":"group","x":-1900,"y":-240,"width":440,"height":3660,"label":"Starter Kits"},
+		{"id":"eb6b863cbeb91c37","type":"link","url":"https://www.preciousplastic.com/starterkits/showcase/sheetpress","x":-1880,"y":2080,"width":400,"height":400},
+		{"id":"7eabfb0909f435b5","type":"link","url":"https://www.preciousplastic.com/starterkits/showcase/injection","x":-1880,"y":2540,"width":400,"height":400},
+		{"id":"9ebd2670ba889ed9","type":"link","url":"https://www.preciousplastic.com/starterkits/showcase/mix","x":-1880,"y":3000,"width":400,"height":400},
+		{"id":"cd8ecf514695cf59","type":"text","text":"![[Pasted image 20240110064047.png]]","x":-1420,"y":2086,"width":931,"height":394},
+		{"id":"ed168bc7474559f8","type":"text","text":"![[Pasted image 20240110064108.png]]","x":-1420,"y":2546,"width":931,"height":394},
+		{"id":"cc20703a0efa2c15","type":"text","text":"![[Pasted image 20240110063522.png]]","x":-1420,"y":3000,"width":931,"height":425},
+		{"id":"f73a47afa2e18686","type":"text","text":"[[Spaces/School/UFV.canvas|UFV]]","x":-749,"y":-431,"width":250,"height":60},
+		{"id":"d2733acaa57063e3","type":"link","url":"https://www.preciousplastic.com/starterkits/showcase/collection-point","x":-1880,"y":-220,"width":400,"height":400},
+		{"id":"67daf05f336d543a","type":"link","url":"https://www.preciousplastic.com/starterkits/showcase/extrusion","x":-1880,"y":1620,"width":400,"height":400},
+		{"id":"43f22ac07135b59c","type":"text","text":"\n```cardlink\nurl: https://www.preciousplastic.com/\ntitle: \"Say hi to the Precious Plastic Universe\"\ndescription: \"The alternative plastic recycling system run by people.\"\nhost: www.preciousplastic.com\nimage: https://assets-global.website-files.com/5e004b03e5da773c54823bfb/5e12fe6fc5e98c5911fd3bac_open-graph-precious-plastic.jpg\n```\n","x":-1902,"y":-500,"width":444,"height":191},
+		{"id":"4b7416e94d584777","type":"text","text":"![[Pasted image 20240110063722.png]]","x":-1420,"y":-234,"width":931,"height":394},
 		{"id":"8b9d95b71a693f03","type":"text","text":"![[Pasted image 20240110063859.png]]","x":-1420,"y":240,"width":931,"height":394},
 		{"id":"765310514272779b","type":"text","text":"![[Pasted image 20240110063929.png]]","x":-1420,"y":700,"width":931,"height":394},
 		{"id":"290566e67ba0bafa","type":"text","text":"![[Pasted image 20240110063949.png]]","x":-1420,"y":1166,"width":931,"height":394},
 		{"id":"6dc99de20d9e4736","type":"text","text":"![[Pasted image 20240110064008.png]]","x":-1420,"y":1626,"width":931,"height":394},
-		{"id":"cd8ecf514695cf59","type":"text","text":"![[Pasted image 20240110064047.png]]","x":-1420,"y":2086,"width":931,"height":394},
-		{"id":"ed168bc7474559f8","type":"text","text":"![[Pasted image 20240110064108.png]]","x":-1420,"y":2546,"width":931,"height":394},
-		{"id":"cc20703a0efa2c15","x":-1420,"y":3000,"width":931,"height":425,"type":"text","text":"![[Pasted image 20240110063522.png]]"}
+		{"id":"93b12b049ce15a92","type":"link","url":"https://www.preciousplastic.com/starterkits/showcase/community-point","x":-1880,"y":240,"width":400,"height":400},
+		{"id":"0d524752de909bd4","type":"link","url":"https://www.preciousplastic.com/starterkits/showcase/machine-shop","x":-1880,"y":700,"width":400,"height":400},
+		{"id":"b4332dc5aed29c3a","type":"link","url":"https://www.preciousplastic.com/starterkits/showcase/shredder","x":-1880,"y":1160,"width":400,"height":400}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"82d559d7beeb8b28","fromNode":"43f22ac07135b59c","fromSide":"right","toNode":"f73a47afa2e18686","toSide":"left"}
+	]
 }
