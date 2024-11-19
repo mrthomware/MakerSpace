@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"type":"group","id":"590886894ee4aa1f","x":-1400,"y":-640,"width":1454,"height":1050,"label":"Makerspace Offers"},
+		{"type":"file","file":"src/Pasted image 20230808170537.jpg","id":"61d6fa084fd1b915","x":-3080,"y":-1675,"width":1354,"height":799},
+		{"type":"file","file":"src/Pasted image 20230808171840.png","id":"8cbddf957971fa1a","x":-3080,"y":-625,"width":1326,"height":1281},
+		{"type":"text","text":"\n```cardlink\nurl: https://preciousplastic.com/\ntitle: \"Say hi to the Precious Plastic Universe\"\ndescription: \"The alternative plastic recycling system run by people.\"\nhost: preciousplastic.com\nimage: https://uploads-ssl.webflow.com/5e004b03e5da773c54823bfb/5e12fe6fc5e98c5911fd3bac_open-graph-precious-plastic.jpg\n```\n","id":"b31cfb23cd065d15","x":-1417,"y":-1675,"width":809,"height":335},
+		{"type":"file","file":"src/Pasted image 20230808172139.png","id":"96926ae97c673a2c","x":-3023,"y":863,"width":1251,"height":1118},
+		{"type":"text","text":"Enevt Space","id":"c62108ad9fa2d539","x":-1325,"y":-540,"width":250,"height":60},
+		{"type":"text","text":"3D Printing","id":"aa0ffd2d295c9b32","x":-1325,"y":-5,"width":250,"height":50},
+		{"type":"text","text":"Workbenchs","id":"51c8f1ba41b803ad","x":-1325,"y":90,"width":250,"height":60},
+		{"type":"text","text":"Other Tools:","id":"baabd9810ed8fed0","x":-1325,"y":200,"width":250,"height":60},
+		{"type":"text","text":"CNC","id":"f074e718145ab12a","x":-254,"y":60,"width":250,"height":60},
+		{"type":"text","text":"Metal Fab","id":"0681ddcaeb3181a0","x":-1325,"y":-140,"width":355,"height":80},
+		{"type":"text","text":"Education","id":"3287444d78597879","x":-948,"y":-540,"width":250,"height":60},
+		{"type":"text","text":"Resious Plasict Machines","id":"64e8bef6dc985e13","x":-741,"y":-219,"width":393,"height":92},
+		{"type":"text","text":"Wood Work Shop Tools","id":"f16d25e39fa0ce81","x":-1325,"y":-290,"width":360,"height":71},
+		{"type":"text","text":"# Waste Managment 3R's\n\nPlasicts\nMetal\nPaprer \n","id":"b4e8613de75d1953","x":296,"y":-505,"width":425,"height":240},
+		{"type":"text","text":"Business","id":"da29a9ffceed44bf","x":-558,"y":-540,"width":250,"height":60},
+		{"type":"text","text":"\n- [ ] Legal\n- [ ] Accountant\n- [ ] Business Plan\n- [ ] Alumni\n- [ ] Voluteers \n- [ ] \n","id":"0cb8e1d95400ca3d","x":-254,"y":-540,"width":250,"height":299},
+		{"type":"text","text":"Prototyping","id":"0b75003d936ae6f1","x":-558,"y":-450,"width":250,"height":60},
+		{"type":"text","text":"Maketing","id":"4a97bb617b27619b","x":-558,"y":-360,"width":250,"height":60},
+		{"id":"4a4ca129e831ff23","type":"text","text":"","x":-1400,"y":-1240,"width":400,"height":400,"color":"6"}
+	],
+	"edges":[
+		{"id":"c5b466f7eccf6ab2","fromNode":"b4e8613de75d1953","fromSide":"left","toNode":"590886894ee4aa1f","toSide":"right"},
+		{"id":"3299075ec79b4600","fromNode":"f074e718145ab12a","fromSide":"top","toNode":"64e8bef6dc985e13","toSide":"right"},
+		{"id":"b30533b31905827b","fromNode":"64e8bef6dc985e13","fromSide":"bottom","toNode":"aa0ffd2d295c9b32","toSide":"right","label":"Fillament"}
+	]
+}
